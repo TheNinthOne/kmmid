@@ -28,9 +28,7 @@ Med priseljenimi v delovno aktivni starosti (25–64 let) jih je bilo 75 % zapos
 ## Šolanje v Sloveniji 
 
 <div class="video" style="padding-bottom: 30px;">
-  <video controls="" title="Kristijan, študent FERI iz Severne Makedonije, se je v Slovenijo preselil zaradi novih življenjskih izkušenj, največji izziv pa mu je bil jezik. (Lasten vir) " width="100%" poster="/images/1-video.mp4">
-    <source src="/images/3-video.mp4" type="video/mp4">
-  </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dFynZcii6s?si=IEUb-eIyubbUF9Jf" title="Kristijan, študent FERI iz Severne Makedonije, se je v Slovenijo preselil zaradi novih življenjskih izkušenj, največji izziv pa mu je bil jezik. (Lasten vir) " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 

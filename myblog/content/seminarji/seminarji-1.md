@@ -30,9 +30,7 @@ Pomemben vidik neenakosti je tudi nevidnost. Odsotnost istospolno usmerjenih iz 
 # Osebna izkušnja medijske reprezentacije 
 
 <div class="video">
-  <video controls="" title="Video: Osebna izkušnja sogovornika razkriva, kako medijske podobe vplivajo na samopodobo in občutek sprejetosti. Vir: Sanja Ekart, Anika Predan in Ulh Fledin" width="100%" poster="/images/1-video.mp4">
-    <source src="/images/1-video.mp4" type="video/mp4">
-  </video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/crhcAQ0_n58?si=2GVXSzWkGRk0pgAc" title="Video: Osebna izkušnja sogovornika razkriva, kako medijske podobe vplivajo na samopodobo in občutek sprejetosti. Vir: Sanja Ekart, Anika Predan in Ulh Fledin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 

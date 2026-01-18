@@ -33,9 +33,7 @@ Ker je nakup nepremičnine pogosto nedosegljiv, se mladi zatekajo k najemu. V pr
 Prevlada lastniškega bivanja v Sloveniji prinaša varnost tistim, ki nepremičnino že imajo, mladim pa otežuje vstop na stanovanjski trg. Po podatkih SURS je leta 2021 v lastniških stanovanjih živelo 82,8 % prebivalcev, v uporabniških 9,5 %, v najemnih pa 7,7 %. Skoraj 90 % starejših od 70 let živi v lastnih stanovanjih, med mladimi od 20 do 29 let pa je ta delež okoli 75 %. Pri tem je ključna pravilna razlaga podatkov: “živeti v lastniškem stanovanju” pomeni, da oseba živi v stanovanju, ki je v lasti gospodinjstva, ne pa nujno, da je sama njen lastnik. Večina mladih tako živi v stanovanjih svojih staršev, njihov dejanski delež lastništva pa je bistveno nižji. Prav razlika v tem, kdo v stanovanju živi, in tem, kdo ga dejansko ima v lasti, ustvarja generacijski razkorak, ki ga povprečni podatki pogosto zakrijejo. Zgodovinsko ozadje pomaga razumeti, zakaj je takšna struktura v Sloveniji tako izrazita. Po osamosvojitvi je prišlo do obsežne privatizacije nekdanjega družbenega stanovanjskega fonda, s čimer je lastništvo prešlo v roke gospodinjstev, ki so bila takrat že ekonomsko aktivna. Posledično je danes velik del stanovanjskega premoženja skoncentriran v starejših generacijah, medtem ko mladi na trg vstopajo ob visokih cenah in omejeni ponudbi, kjer postaja pomoč družine pogosto neizogibna. 
 
 <div class="video">
-<video controls="" title="MLADI MED SANJAMI O DOMU IN REALNOSTJO TRGA - interjvu video" width="100%" poster="/images/2-video.mp4">
-    <source src="/images/2-video.mp4" type="video/mp4">
-  </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVtJOhC5was?si=o1yaRAybFNSTofBM" title="MLADI MED SANJAMI O DOMU IN REALNOSTJO TRGA - interjvu video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 

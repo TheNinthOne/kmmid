@@ -37,9 +37,7 @@ Svojo osebno izkušnjo je z nami delila Alina Šturlac, študentka iz Moldavije,
 Ključna razlika se pokaže tudi pri lokalni kupni moči, ki je v Mariboru kar za 81 odstotkov višja kot v Kišinjevu. To pomeni, da si prebivalci Slovenije kljub višjim cenam lahko privoščijo več, kar je neposredno povezano z razlikami v povprečnih neto plačah med državama. Kot dodaja Šturlacova: <em>‘’Če bi imela v Sloveniji samo 300 evrov na mesec, tudi tukaj ne bi mogla normalno živeti. Razlika pa je v tem, da tukaj veliko bolj čutiš, da imaš možnosti. Več izbire v izobraževanju, bolj jasna pravila ter več priložnosti za uradno delo in razvoj.’’ </em>
 
 <div class="video">
-  <video controls="" title="Intervju z Alinom" width="100%" poster="/images/1-video.mp4">
-    <source src="/images/11-video.mp4" type="video/mp4">
-  </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NqAvqwRtnU8?si=4AaLg2cVpnXtVLEG" title="Intervju z Alinom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 # Zdravstvo kot skupen izziv obeh držav 

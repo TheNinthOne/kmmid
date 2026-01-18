@@ -73,9 +73,7 @@ Povečana potreba po psihoterapiji ni le posledica večje ozaveščenosti, temve
 
 
 <div class="video">
-  <video controls="" title="Video posnetek intervjua" width="100%" poster="/images/1-video.mp4">
-    <source src="/images/13-video.mp4" type="video/mp4">
-  </video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDBBwQ25BkE?si=pAUmNavs7uANCmSD" title="Video posnetek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
