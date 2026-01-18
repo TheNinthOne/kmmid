@@ -20,7 +20,7 @@ Raziskave javnega mnenja v Sloveniji kažejo, da je zaupanje v javno zdravstvo r
 Hkrati podatki razkrivajo pomembno razliko: zaupanje v zdravstvo kot sistem ni enako zaupanju v zdravstvene delavce. Kritika je praviloma usmerjena v organizacijo in upravljanje sistema, bistveno redkeje pa neposredno v zdravnike. To kaže, da javnost težave zaznava predvsem kot sistemske. Raziskava Ogledalo Slovenije, ki redno meri zadovoljstvo prebivalcev s splošnim stanjem v državi ter zaupanje v institucije in poklice, prinaša pozitivne novice za zdravniški poklic. Zdravniki so v zadnji meritvi zabeležili najvišjo rast zaupanja med vsemi poklici, kar kaže na opazen premik v percepciji javnosti. 
 
 
-![Podatki mnenja o slovenskem zdravstvu iz leta 2024. Vir: Mediana](images/10-slika1.png)
+{{ img(path="images/10-slika1.png", alt="Podatki mnenja o slovenskem zdravstvu iz leta 2024. Vir: Mediana") }}
 *Podatki mnenja o slovenskem zdravstvu iz leta 2024. Vir: Mediana*
 
 Tudi raziskava, ki jo je za Zdravniško zbornico Slovenije izvedla Mediana, razkriva, da okoli 76 % prebivalcev zaupa svojemu osebnemu zdravniku in več kot 70 % zaupa zdravnikom v Sloveniji na splošno. 
@@ -31,7 +31,7 @@ Zdravniki v Sloveniji v primerjavi z drugimi poklicnimi skupinami uživajo razme
 
 Ta razlika med zaupanjem v posameznike in nezaupanjem v institucijo razkriva globlji problem. Ljudje zdravnikom večinoma verjamejo, hkrati pa dvomijo, ali jim sistem omogoča pravočasno, dostopno in kakovostno obravnavo. Osebna izkušnja z zdravnikom je pogosto pozitivna, medtem ko stik s sistemom kot celoto ostaja vir frustracij. 
 
-![76 % Slovencev zaupa svojemu osebnemu zdravniku. Foto: Freepik](images/10-slika2.jpg)
+{{ img(path="images/10-slika2.jpg", alt="76 % Slovencev zaupa svojemu osebnemu zdravniku. Foto: Freepik") }}
 *76 % Slovencev zaupa svojemu osebnemu zdravniku. Foto: Freepik*
 
 Takšen razkorak ni značilen le za Slovenijo, temveč se pojavlja tudi v drugih državah. Mednarodne primerjave kažejo, da ljudje pogosto bolj zaupajo zdravstvenim delavcem kot institucijam, ki zdravstvene storitve organizirajo. Ko sistem deluje neučinkovito, se nezaupanje hitro razširi, tudi če so osebne izkušnje z zdravniki dobre. 
@@ -48,7 +48,7 @@ Nezaupanje v javno zdravstvo ima več vzrokov. Pomembno vlogo ima način, kako s
 
 Nezaupanje se redko oblikuje zaradi enega samega dogodka. Pogosteje gre za postopno kopičenje slabih občutkov, povezanih z nepreglednostjo sistema, nejasno komunikacijo in občutkom, da pacient pri sprejemanju odločitev nima glasu. V takšnem okolju se zaupanje hitro izgublja, povrniti pa ga je bistveno težje. 
 
-![Vzroki težav v zdravstvenem sistemu po mnenju Slovencev. Vir: Mediana ](images/10-slika3.png)
+{{ img(path="images/10-slika3.png", alt="Vzroki težav v zdravstvenem sistemu po mnenju Slovencev. Vir: Mediana") }}
 *Vzroki težav v zdravstvenem sistemu po mnenju Slovencev. Vir: Mediana*
 
 # Pogled iz prve roke: osebni odnos krepi zaupanje, sistem pa ga slabi 
@@ -82,4 +82,4 @@ Za dolgoročno izboljšanje zaupanja bodo potrebne sistemske spremembe, večja t
 - [ <em> Vrnitev zaupanja v zdravnike in RTV Slovenija, padec zaupanja v direktorje. </em> - RTV Slovenija. (2024). ](https://www.rtvslo.si/slovenija/vrnitev-zaupanja-v-zdravnike-in-rtv-slovenija-padec-zaupanja-v-direktorje/728336)
 - [ <em>  Ogledalo Slovenije: Jesen 2025. </em> - Valicon. (2025).  ](https://www.valicon.net/sl/ogledalo-slovenije-jesen-2025/)
 - [ <em>  Ogledalo Slovenije: politikom zaupamo najmanj, zdravniki in direktorji navzgor, reševalci in gasilci na vrhu. </em> - Večer. (2025). ](https://vecer.com/slovenija/ogledalo-slovenije-politikom-zaupamo-globoko-najmanj-zdravniki-in-direktorji-navzgor-resevalci-gasilci-so-prvi--10380284)
-- [ <em>Visoko zaupanje v zdravnike.</em> - Zdravniška zbornica Slovenije. (2024). ](https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/obvestila/2024/11/26/visoko-zaupanje-v-zdravnike)
+- [ <em>Visoko zaupanje v zdravnike</em> - Zdravniška zbornica Slovenije. (2024). ](https://www.zdravniskazbornica.si/informacije-publikacije-in-analize/obvestila/2024/11/26/visoko-zaupanje-v-zdravnike)

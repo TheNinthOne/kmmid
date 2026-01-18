@@ -1,0 +1,12 @@
+<div class="video">
+  <video
+    controls
+    {% if title %}title="{{ title }}"{% endif %}
+    {% if width %}width="{{ width }}"{% else %}width="100%"{% endif %}
+    {% if poster %}poster="{{ get_url(path=poster) }}"{% endif %}
+    {% if preload %}preload="{{ preload }}"{% endif %}
+  >
+    <source src="{{ get_url(path=src) }}" type="{{ type | default(value="video/mp4") }}">
+    {{ label | default(value="Video posnetek clanka") }}
+  </video>
+</div>

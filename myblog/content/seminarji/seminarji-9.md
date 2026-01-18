@@ -12,7 +12,7 @@ categories = ["Pametni telefoni"]
 tags = ["druzba", "screen time"]
 +++
 
-![Prekomerna raba telefonov](images/9-slika1.jpg)
+{{ img(path="images/9-slika1.jpg", alt="Prekomerna raba telefonov") }}
 *Prekomerna raba telefonov*
 
 
@@ -23,7 +23,7 @@ Več raziskav je pokazalo, da je prekomerna raba pametnih telefonov povezana s �
 Problematična uporaba je povezana tudi z nizko samozavestjo, socialno anksioznostjo in težavami pri ustvarjanju pristnih medosebnih odnosov. Študije kažejo, da daljša izpostavljenost zaslonu in stalna potreba po preverjanju telefona lahko ustvarita občutek tesnobe ali strahu pred izgubo dostopa do naprave.
 
 
-![Prekomerna raba telefona vpliva na samopodobo](images/9-slika2.jpg)
+{{ img(path="images/9-slika2.jpg", alt="Prekomerna raba telefona vpliva na samopodobo") }}
 *Prekomerna raba telefona vpliva na samopodobo*
 
 # Posledice za telesno zdravje in vsakdanje funkcije
@@ -39,11 +39,12 @@ Najnovejša sociološka raziskava, objavljena v reviji Frontiers in Psychology (
 
 Preverili smo koliko časa na telefonih preživijo študenti ene izmed Mariborskih fakultet
 
-<div class="video">
-  <video controls="" title=" telefonih preživijo študenti ene izmed Mariborskih fakultet" width="100%" poster="images/1-video.mp4">
-    <source src="images/9-video.mp4" type="video/mp4">
-  </video>
-</div>
+{{ video(
+  src="images/9-video.mp4",
+  poster="images/9-video.mp4",
+  title="telefonih preživijo študenti ene izmed Mariborskih fakultet",
+  width="100%"
+) }}
 
 # Digitalni detox: Prekinitev začaranega kroga
 
@@ -51,7 +52,7 @@ Zaradi negativnih učinkov prekomerne uporabe telefonov se vse več ljudi odloč
 
 Primer takega pristopa je 30-dnevni izziv digitalnega detoxa, ki vključuje korake, kot so izklop nepotrebnih obvestil, omejitev uporabe družbenih omrežij, uvedba “ne-telefonskih” časov dneva in vnaprejšnje načrtovanje aktivnosti brez zaslona. Takšni programi spodbujajo zavedno in bolj uravnoteženo rabo tehnologije, kar lahko posledično izboljša produktivnost, kakovost spanja in medosebne odnose.
 
-![Primer 30-dnevnega detoxa](images/9-slika3.png)
+{{ img(path="images/9-slika3.png", alt="Primer 30-dnevnega detoxa") }}
 *Primer 30-dnevnega detoxa*
 
 # Raziskave in perspektive za prihodnost
@@ -69,4 +70,4 @@ Kljub temu so učinki digitalnega detoxa na dolgi rok še vedno predmet razprave
 - [ <em> Factors and Health Effects of Excessive Smartphone Use: The Impact of Bedtime Delay on Young Adults in Developing Countries </em>](https://link.springer.com/article/10.1007/s42413-025-00241-8?)
 - [ <em> Excessive Smartphone Use Is Associated With Health Problems in Adolescents and Young Adults </em>](https://pubmed.ncbi.nlm.nih.gov/34140904/)
 - [ <em> Smartphone dependence and its influence on physical and mental health </em>](https://pubmed.ncbi.nlm.nih.gov/40904566/)
-- [ <em> A sociological investigation of the effect of cell phone use on students' academic, psychological, and socio-psychological performance </em>](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1474340/full )
+- [ <em> A sociological investigation of the effect of cell phone use on students' academic, psychological, and socio-psychological performance. </em>](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1474340/full )

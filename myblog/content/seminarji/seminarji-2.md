@@ -50,4 +50,4 @@ Stanovanjska problematika mladih se pogosto obravnava kot ločeno vprašanje nep
 - [European Union. (November 2025).<em> Living conditions in Europe – housing.</em> ](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Living_conditions_in_Europe_-_housing)
 - [Horvat, M. (4. 7. 2023). <em>Housing Fund of the Republic of Slovenia.</em> RE-DWELL. ](https://www.re-dwell.eu/case-library/housing-fund-of-the-republic-of-slovenia)
 - [Miklič, E. (22. 6. 2022). <em>Število naseljenih stanovanj se je povečalo.</em> Statistični urad Republike Slovenije (SURS). ](https://www.stat.si/StatWeb/News/Index/10265)
-- [Statistični urad Republike Slovenije (SiStat). (b. d.). <em>Osnovni podatki o rojenih, Slovenija, letno.</em> ](https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05J1002S.px/)
+- [Statistični urad Republike Slovenije (SiStat). (b. d.). <em>Osnovni podatki o rojenih, Slovenija, letno</em> ](https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05J1002S.px/)

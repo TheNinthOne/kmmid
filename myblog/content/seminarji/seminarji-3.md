@@ -20,7 +20,7 @@ Migracija je gibanje ljudi iz enega mesta na drugo. Ljudje se selijo se iz razli
 # Večina migrantov v Slovenijo prihaja zaradi zaposlitve 
 V Slovenijo se večina migrantov še vedno priseljuje predvsem zaradi dela. Po podatkih Statističnega urada RS se je leta 2024 v državo priselilo 33.023 oseb, pri čemer je 58 % tujih državljanov kot glavni razlog navedlo zaposlitev, dodatnih 25 % družinske razloge in približno 8 % izobraževanje ali študij.  
 
-![Statistika](images/3-animacija.gif)
+{{ img(path="images/3-animacija.gif", alt="Statistika") }}
 *Statistika*
 
 Med priseljenimi v delovno aktivni starosti (25–64 let) jih je bilo 75 % zaposlenih, kar kaže, da so migracije tesno povezane s potrebami slovenskega trga dela. Podobno sliko potrjuje OECD, ki za leto 2024 navaja, da je bila večina novih dovoljenj za bivanje izdana za zaposlitev ali sezonsko delo, pri čemer med priseljenci prevladujejo državljani Bosne in Hercegovine, Srbije in Ukrajine. Primerjava z letom 2022 kaže, da je več kot dve tretjini vseh novih priseljencev prišlo zaradi zaposlitve, kar pomeni, da se vzorec v zadnjih letih ne zmanjšuje, temveč ostaja stabilen. Ta razlog za selitev pa ni nov, odraža se tudi v osebni izkušnji študenta Relje, ki se je s starši pred 23 leti preselil v Slovenijo. Danes pravi, da se tukaj počuti doma, saj je v Sloveniji odraščal in prevzel lokalno kulturo za svojo. 
@@ -33,11 +33,7 @@ Med priseljenimi v delovno aktivni starosti (25–64 let) jih je bilo 75 % zapos
 
 
 <div class="quote-block">
-  <img
-    class="quote-img"
-    src="images/3-profil3.jpg"
-    alt="Nika Devetak, Zamejka v Italiji  in migrantka v Ljubljani, vir: osebni arhiv"
-  />
+  {{ slika(src="images/3-profil3.jpg", class="quote-img", alt="Nika Devetak, Zamejka v Italiji in migrantka v Ljubljani, vir: osebni arhiv") }}
 
   <blockquote class="quote-text">
     Nika Devetak, Zamejka v Italiji  in migrantka v Ljubljani, vir: osebni arhiv
@@ -72,26 +68,16 @@ Med priseljenimi v delovno aktivni starosti (25–64 let) jih je bilo 75 % zapos
 
 Dijakinja Nika, ki živi v okolici Gorice, se je za šolanje v Sloveniji odločila, ker je Ljubljana zelo blizu, več na spodnjem posnetku:
 
-<div class="video">
-<audio controls>
-  <source src="images/3-nika.mp3" type="audio/ogg">
-  <source src="images/3-nika.mp3" type="audio/mpeg">
-Izjava studentkinje Nike
-</audio>
-</div>
+{{ audio(src="images/3-nika.mp3", ogg="images/3-nika.mp3", label="Izjava studentkinje Nike") }}
 
 
 Na začetku se je v Ljubljani kot migrantka počutila odtujeno, saj je zaradi svojega naglasa zvenela kot Italijanka, ko pa se je vrnila domov, je bila bolj Slovenka, ker se je v Ljubljani hitro »nalezla« bolj slovenskega naglasa. Razliko omenja tudi v ritmu življenja in hrani, a ji sicer šolanje in celotna izkušnja ostajata v zelo lepem spominu.
 
 Po podatkih Statističnega urada RS je bil v študijskem letu 2024/25 v terciarno izobraževanje vpisanih približno 82.388 študentov, pri čemer je delež tujih študentov znašal 14,5 % vseh študentov terciarnega izobraževanja. Ti so prihajali iz več kot 120 držav, zlasti iz Srbije, Severne Makedonije, Hrvaške in Bosne in Hercegovine. Število tujih študentov se je zvišalo za okoli 12,1–12,8 % glede na prejšnje leto, tako med študenti brez slovenskega državljanstva kot tudi med tistimi, ki so se v Slovenijo preselili iz tujine, kar kaže na vse večje zanimanje za študij v Sloveniji.  
 
-<div class="video">
-<audio controls>
-  <source src="images/3-una.mp3" type="audio/ogg">
-  <source src="images/3-una.mp3" type="audio/mpeg">
-Izjava studentkinje Une
-</audio>
-</div>
+
+{{ audio(src="images/3-una.mp3", ogg="images/3-una.mp3", label="Izjava studentkinje Une") }}
+
 
 Una, študentka FERI iz Srbije, je v Slovenijo prišla zaradi boljših življenjskih pogojev, kakovosti študija in možnosti kasnejše zaposlitve. (Lasten vir) 
 
@@ -100,11 +86,7 @@ Nekateri tuji študenti v Sloveniji študij uporabljajo tudi kot pot za dostop d
 # Delo ob študiju v Sloveniji 
 
 <div class="quote-block">
-  <img
-    class="quote-img"
-    src="images/3-profil2.jpg"
-    alt="Gabriel Braini, Zamejc v Italiji in dnevni migrant v Sloveniji, vir: osebni arhiv"
-  />
+{{ slika(src="images/3-profil2.jpg", class="quote-img", alt="Gabriel Braini, Zamejc v Italiji in dnevni migrant v Sloveniji, vir: osebni arhiv") }}
 
   <blockquote class="quote-text">
   Gabriel Braini, Zamejc v Italiji in dnevni migrant v Sloveniji, vir: osebni arhiv
@@ -137,13 +119,7 @@ Nekateri tuji študenti v Sloveniji študij uporabljajo tudi kot pot za dostop d
   }
 </style>
 
-<div class="video">
-<audio controls>
-  <source src="images/3-gabriel.mp3" type="audio/ogg">
-  <source src="images/3-gabriel.mp3" type="audio/mpeg">
-Izjava Gabrijela
-</audio>
-</div>
+{{ audio(src="images/3-gabriel.mp3", ogg="images/3-gabriel.mp3", label="Izjava Gabrijela") }}
 
 # Izseljevanje Slovencev
 
@@ -151,7 +127,7 @@ Izseljevanje Slovencev ima dolgo zgodovino. Že v 19. stoletju so se številni p
 
 Danes se, kljub spremembam in sodobnim smernicam, Slovenija še vedno sooča z odlivom prebivalcev: vsako leto iz države odide več tisoč ljudi, pri čemer najnovejši podatki kažejo, da je leta 2024 iz Slovenije emigriralo 5.098 slovenskih državljanov, medtem ko se jih je 4.773 vrnilo, kar pomeni, da je neto migracija slovenskih državljanov negativna. Hkrati ima v tujini stalno prijavljeno približno 158.500 slovenskih državljanov (ter približno 5.500 z začasnim prebivališčem), največ v Nemčiji, Avstriji, na Hrvaškem, v Švici in tudi v Italiji, kar kaže, da je sodobno izseljevanje povezano z izobraževanjem, iskanjem delovnih priložnosti, družinskimi povezavami in življenjskimi okoliščinami zunaj meja matične države. 
 
-![Leta 2024 se je iz Slovenije izselilo več kot 5.000 slovenskih državljanov, vir: Statistični urad Republike Slovenije](images/3-slika2.PNG)
+{{ img(path="images/3-slika2.PNG", alt="Leta 2024 se je iz Slovenije izselilo več kot 5.000 slovenskih državljanov, vir: Statistični urad Republike Slovenije") }}
 *Leta 2024 se je iz Slovenije izselilo več kot 5.000 slovenskih državljanov, vir: Statistični urad Republike Slovenije*
 
 Šolanje v tujini je za Slovence vse pogostejša izbira, saj ponuja priložnost za pridobivanje mednarodnih izkušenj, spoznavanje tujih jezikov ter drugačnih izobraževalnih sistemov. Mladi se za študij ali izmenjave odločajo predvsem zaradi širše ponudbe programov in možnosti za raziskovanje ter boljše zaposlitve po končanem šolanju. Takšne izkušnje prispevajo k osebnemu razvoju ter krepijo konkurenčnost na trgu dela. Kaj je o svoji izkušnji kot migrantka pred nekaj leti napisala Laura, si lahko preberete [na povezavi](https://potep.edu.it/sl/my-first-semester-in-bozen/).
@@ -168,9 +144,10 @@ Danes v Italiji delujeta dva učna modela. Na Tržaškem in Goriškem so vrtci i
 
 *Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten*
 <div class="img-row">
-  <img src="images/3-g1s1.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
-  <img src="images/3-g1s2.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
-  <img src="images/3-g1s3.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
+{{ slika(src="images/3-g1s1.jpeg", alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten") }}
+{{ slika(src="images/3-g1s2.jpeg", alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten") }}
+{{ slika(src="images/3-g1s3.jpeg", alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten") }}
+
 </div>
 
 <style>
@@ -190,17 +167,13 @@ Danes v Italiji delujeta dva učna modela. Na Tržaškem in Goriškem so vrtci i
 
 Slovensko šolsko mrežo sestavljajo večstopenjske šole in višje srednje šole v Trstu in Gorici. Letno jih obiskuje približno 4300 otrok, učencev in dijakov, med katerimi je slovenščina za mnoge drugi ali tuji jezik. Vpisujejo pa se tudi Slovenci. Slovenske šole tako niso namenjene le slovenski manjšini, temveč vsem, ki želijo odraščati v dvojezičnem in večkulturnem okolju. 
 
-![Infografika (lastna): Prikaz slovenskih srednjih šol v Italiji. ](images/3-slika3.PNG)
+{{ img(path="images/3-slika3.PNG", alt="Infografika (lastna): Prikaz slovenskih srednjih šol v Italiji. ") }}
 *Infografika (lastna): Prikaz slovenskih srednjih šol v Italiji.*
 
 
 
 <div class="quote-block">
-  <img
-    class="quote-img"
-    src="images/3-profil1.PNG"
-    alt="Neža Šuligoj, dnevna migrantka iz Slovenije, dijakinja na DIZ Cankar – Vega – Zois, smer Uprava, finance, marketing, vir fotografije: osebni arhiv"
-  />
+{{ slika(src="images/3-profil1.PNG", class="quote-img", alt="Neža Šuligoj, dnevna migrantka iz Slovenije, dijakinja na DIZ Cankar – Vega – Zois, smer Uprava, finance, marketing, vir fotografije: osebni arhiv") }}
 
   <blockquote class="quote-text">
   Neža Šuligoj, dnevna migrantka iz Slovenije, dijakinja na DIZ Cankar – Vega – Zois, smer Uprava, finance, marketing, vir fotografije: osebni arhiv.
@@ -252,7 +225,7 @@ Slovence k delu v Italiji pogosto privlačijo čezmejne možnosti zaposlitve in 
 Razlike ali ovire se lahko pokažejo na primer v praznikih, kar pomeni, da bo moral Slovenec za nekatere praznike delati, za druge pa bo doma, kot je prikazano v tabeli. 
 
 
-![Pregled dela prostih dni v Italiji in Sloveniji v letu 2026, vir: lasten, povzeto po koledarjih](images/3-slika5.PNG)
+{{ img(path="images/3-slika5.PNG", alt="Pregled dela prostih dni v Italiji in Sloveniji v letu 2026, vir: lasten, povzeto po koledarjih") }}
 *Pregled dela prostih dni v Italiji in Sloveniji v letu 2026, vir: lasten, povzeto po koledarjih*
 
 
@@ -261,9 +234,9 @@ Razlike ali ovire se lahko pokažejo na primer v praznikih, kar pomeni, da bo mo
 
 *Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten*
 <div class="img-row">
-  <img src="images/3-g2s1.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
-  <img src="images/3-g2s2.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
-  <img src="images/3-g2s3.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
+{{ slika(src="images/3-g2s1.jpg", alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten") }}
+{{ slika(src="images/3-g2s2.jpg", alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten") }}
+{{ slika(src="images/3-g2s3.jpg", alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten") }}
 </div>
 
 <style>
@@ -283,24 +256,25 @@ Razlike ali ovire se lahko pokažejo na primer v praznikih, kar pomeni, da bo mo
 
 Težave v obdobju pandemije je omenil že Kristijan. Omejeno gibanje čez mejo je preglavice povzročilo tudi dnevnim migrantom, saj so na mejnih prehodih bile postavljene ograje. Veliko se jih je zavedalo, kako pomembni so medosebni odnosi in kako težko je, ko jih prekine meja. Tudi društva so skupila skupaj in na daljavo poskusila ohraniti stike. Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti si lahko ogledate na spodnjem videu.  
 
-<div class="video">
-  <video controls="" title=" Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti" width="100%" poster="images/1-video.mp4">
-    <source src="images/3-laura.mp4" type="video/mp4">
-  </video>
-</div>
+{{ video(
+  src="images/3-laura.mp4",
+  poster="images/3-laura-poster.jpg",
+  title="Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti",
+  width="100%"
+) }}
 
 
 Migracije in dnevne migracije bodo v prihodnosti igrale še pomembnejšo vlogo pri povezovanju držav, gospodarstev in trgov dela. Zaradi globalizacije, demografskih sprememb in tehnološkega razvoja bo mobilnost prebivalstva vse večja, čezmejno delo pa bo postajalo vsakdanji del življenja za številne ljudi zaradi iskanja boljših možnosti. Dnevni migranti bodo s svojim znanjem in delom prispevali k razvoju regij na obeh straneh meje ter krepili sodelovanje in mednarodno povezanost, s tem pa tudi ohranjali kulturo manjšin. 
 
 
-![Grafika kljucnih besed migracij; lasten vir ](images/3-slika4.PNG)
+{{ img(path="images/3-slika4.PNG", alt="Grafika kljucnih besed migracij; lasten vir") }}
 *Grafika kljucnih besed migracij; lasten vir*
 
 
 # Viri
 
 - Intervjui z osebami: Gabriel Braini, Kristijan Bunevski, Nika Devetak, Una Savić, Relja Stanišić, Neža Šuligoj 
-- [Brnot. N. (2023). <em> Delovne migracije, 2023: Večina delovno aktivnih oseb odhajala na delo v drugo občino.</em> - Statistični urad Republike Slovenije](https://www.stat.si/StatWeb/News/Index/12751)
+- [Brnot. N. (2023). <em> Delovne migracije, 2023: Večina delovno aktivnih oseb odhajala na delo v drugo občino</em> - Statistični urad Republike Slovenije](https://www.stat.si/StatWeb/News/Index/12751)
 - [Brnot. N. (2024). <em> Delovne migracije, 2024: Večina delovno aktivnih oseb odhajala na delo v drugo občino.</em> - Statistični urad Republike Slovenije](https://www.stat.si/StatWeb/en/news/Index/13522)
 - [Cehnar, J. (2025).<em> Prikrita oblika migracije: vedno več študentov iz tretjih držav na slovenskih fakultetah.</em> - Vecer](https://vecer.com/maribor/aktualno/prikrita-oblika-migracije-vedno-vec-studentov-iz-tretjih-drzav-na-slovenskih-fakultetah-10380483)
 - [Čepar, N. (2024). <em> Slovensko šolstvo v Italiji je na prepihu. </em> - Delo.si](https://www.delo.si/novice/svet/slovensko-solstvo-v-italiji-je-na-prepihu)

@@ -63,5 +63,5 @@ Kako bodo mediji to vlogo opravljali v prihodnje, bo pomembno vplivalo na to, al
 - [European Union Agency for Fundamental Rights. (2020). <em>EU LGBTI survey II: A long way to go for LGBTI equality.</em> Publications Office of the European Union.](https://fra.europa.eu)
 - [GLAAD. (2023). <em>Where we are on TV: LGBTQ inclusion in television. GLAAD Media Institute.</em>](https://www.glaad.org)
 - [ILGA-Europe. (2024). <em>Annual review of the human rights situation of LGBTI people in Europe and Central Asia.</em> ILGA-Europe.](https://www.ilga-europe.org)
-- McQuail, D. (2010). <em>McQuail’s mass communication theory (6th ed.).</em> SAGE Publications. 
-- Tuchman, G. (1978). Making news: <em>A study in the construction of reality.</em> Free Press. 
+- McQuail, D. (2010). <em>McQuail’s mass communication theory (6th ed.).</em> SAGE Publications
+- Tuchman, G. (1978). Making news: <em>A study in the construction of reality.</em> Free Press

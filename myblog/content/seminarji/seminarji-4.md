@@ -12,7 +12,7 @@ categories = ["Zaposlovanje mladih"]
 tags = ["trg dela", "generacija Z", "zaposlovanje"]
 +++
 
-![Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock](images/4-slika1.jpeg)
+{{ img(path="images/4-slika1.jpeg", alt="Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock") }}
 *Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock*
 
 # Zahtevane izkušnje prvi izziv zaposlovanja
@@ -34,13 +34,7 @@ Is it still worth going to university?" frameborder="0" allow="accelerometer; au
 # Past študentske napotnice 
 Slovenija izstopa s sistemom študentskega dela, ki je velikokrat dvorezen meč. Mladi ga množično koristijo za pridobivanje nujnih izkušenj in stik z delodajalci. Vse pogosteje izbirajo dela, povezana z njihovo izobrazbo oziroma študijsko smerjo z namenom grajenja kompetenc in izboljšanja zaposlitvenih možnosti po zaključku izobraževanja, vendar praksa pogosto kaže na sistemsko zlorabo. Delodajalci redna delovna mesta drobijo v urne postavke preko napotnic, s čimer se izognejo plačilu bolniških odsotnosti, dopustov in regresa. Mladi tako več let opravljajo delo z vsemi odgovornostmi redno zaposlenih, a brez socialne varnosti, kar podaljšuje njihovo finančno odvisnost. 
 
-<div class="video">
-<audio controls>
-  <source src="images/4-audio.mp3" type="audio/ogg">
-  <source src="images/4-audio.mp3" type="audio/mpeg">
-Studentske napotnice audio
-</audio>
-</div>
+{{ audio(src="images/4-audio.mp3", ogg="images/4-audio.mp3", label="Studentske napotnice audio") }}
 
 
 # Ko vajenca zamenja umetna inteligenca  
@@ -49,14 +43,14 @@ Na trg dela je nedavno vstopil nov tekmec, ki ne potrebuje malice in ne zahteva 
 # Nove vrednote mladih na delovnem mestu 
 Generacija Z se pri vstopu na trg dela pogosto sooča z obtožbami, da je manj motivirana, razvajena ali težavna, a so še par let nazaj enake obtožbe bile usmerjene na milenijce. Raziskovalci opozarjajo, da gre pri tem predvsem za napačno interpretacijo spremenjenih vrednot in pričakovanj. Mladi danes veliko bolj cenijo ravnovesje med poklicnim in zasebnim življenjem, smiselnost dela, duševno zdravje in podporno delovno okolje, kar pogosto pretehta nad zgolj višino plače. Delo tako ni več edini smisel življenja, ampak sredstvo za doseganje ciljev. Nova generacija torej dela ne zavrača, temveč postavlja zdrave meje, išče fleksibilnost in priložnosti za rast. Podjetja se tako soočajo s pritiskom, da prilagodijo svojo kulturo, delovne pogoje in sisteme nagrajevanja, če želijo pridobiti in obdržati talentirane mlade delavce. 
 
-![Javnomnenjska anketa](images/4-javnomnenjska_anketa.jpg)
+{{ img(path="images/4-javnomnenjska_anketa.jpg", alt="Javnomnenjska anketa") }}
 *Javnomnenjska anketa*
 
 
 # Slovenija gasi požar brezposelnosti mladih
 Kljub alarmantnim trendom obstajajo premiki na bolje. V Sloveniji se je število dolgotrajno brezposelnih v zadnjem obdobju zmanjšalo na 18 tisoč, kar je spodbuden podatek. Ministrstvo je napovedalo nove subvencije za trajno zaposlovanje mladih, s katerimi želi delodajalce motivirati za sklepanje pogodb za nedoločen čas. Ukrepi ciljajo predvsem na premostitev tveganja, ki ga delodajalci vidijo v zaposlovanju mladih brez izkušenj, in predstavljajo nujen korektiv trga, ki sam od sebe ne deluje v korist mladih. 
 
-![Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si ](images/4-slika2.jpg)
+{{ img(path="images/4-slika2.jpg", alt="Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si") }}
 *Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si*
 
 Čeprav se danes zdi, da so mladi v podrejenem položaju, prihodnost prinaša nepričakovan zasuk. Zaradi hitrega staranja prebivalstva se bo bazen delovne sile v razvitih državah drastično skrčil. Mladi delavci bodo postali redka in dragocena dobrina, kar bo neizogibno dvignilo njihovo ceno in pogajalsko moč. Delodajalci bodo prisiljeni tekmovati za vsakega posameznika ne le s plačo, temveč s pogoji dela, ki bodo vključevali varnost, stabilnost in možnosti za dolgoročni karierni razvoj. 
@@ -73,4 +67,4 @@ Kljub alarmantnim trendom obstajajo premiki na bolje. V Sloveniji se je število
 - [<em>Nove subvencije za trajno zaposlovanje mladih</em> - GOV.SI. (2025, April 14). Portal GOV.SI. ](https://www.gov.si/novice/2025-04-14-nove-subvencije-za-trajno-zaposlovanje-mladih/ )
 - [<em>Gen Z faces ‘job-pocalypse’ as global firms prioritise AI over new hires, report says.</em> - Partridge, J. (2025, October 9). The Guardian.](https://www.theguardian.com/money/2025/oct/09/gen-z-face-job-pocalypse-as-global-firms-prioritise-ai-over-new-hires-report-says)
 - [<em>Labor market uncertainties for youth and Young adults: an international perspective. The Annals of the American Academy of Political and Social Science, 688(1), 7–19. </em> - Yeung, W. J., & Yang, Y. (2020).](https://doi.org/10.1177/0002716220913487 )
-- [<em>Undisciplined? Entitled? Lazy? Gen Z faces familiar flood of workplace criticism.  </em> - Zaza, J. (2025, November 17). The Guardian](https://www.theguardian.com/money/ng-interactive/2025/nov/17/gen-z-workplace-criticism )
+- [<em>Undisciplined? Entitled? Lazy? Gen Z faces familiar flood of workplace criticism</em> - Zaza, J. (2025, November 17). The Guardian](https://www.theguardian.com/money/ng-interactive/2025/nov/17/gen-z-workplace-criticism )

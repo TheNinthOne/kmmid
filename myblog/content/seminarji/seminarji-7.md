@@ -46,7 +46,7 @@ vizualni jezik devetdesetih let in danes: barvo, svetlobo, ritem montaže in "vi
 Tarantinov primer pokaže, kako se obdobje premika od ostrih kontrastov in nervozne
 energije do tople nostalgije in bolj premišljenega tempa.
 
-![Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.](images/7-slika.PNG)
+{{ img(path="images/7-slika.PNG", alt="Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.") }}
 *Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.*
 
 Film je hkrati umetnost, industrija in množični medij. Zato je dober pokazatelj kulturnih
@@ -63,7 +63,7 @@ napredka tehnologije, ampak tudi zato, ker se je življenje dramatično spremeni
 bili trendi drugačni, filmi so kazali drugačen smisel za humor, drugačen način izražanja
 čustev in tako naprej.
 
-![Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.](images/7-slika2.PNG)
+{{ img(path="images/7-slika2.PNG", alt="Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.") }}
 *Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.*
 
 Knjiga *“Film, forma in kultura”* avtorjev Kolkerja in Gordona (2024) nas poziva, naj film
@@ -82,7 +82,7 @@ in zgodbe ter vpliva na to, kako ljudje razumejo resničnost in sebe
 V sodobnem filmu je identiteta prikazana kot proces: liki nastajajo pod pritiskom družbe,
 pričakovanj in lastnih negotovosti.
 
-![Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.](images/7-slika3.PNG)
+{{ img(path="images/7-slika3.PNG", alt="Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.") }}
 *Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.*
 
 Milner in Browitt (2003) ponujata preprost, a uporaben pogled: film je treba brati kot
@@ -99,7 +99,7 @@ hiperpovezanem svetu, kjer digitalna komunikacija nadomešča resnične človeš
 lahko počutijo globoko osamljene, tudi ko so obkroženi z drugimi. S prikazovanjem teh
 težav sodobna kinematografija omogoča občinstvu, da se prepozna na platnu.
 
-![Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj](images/7-slika4.PNG)
+{{ img(path="images/7-slika4.PNG", alt="Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj") }}
 *Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj*
 
 # TEHNOLOGIJA IN SODOBNO ŽIVLJENJE (DRUŽBENA OMREŽJA, UMETNA INTELIGENCA, NADZOR, HITROST, IZOLACIJA)
@@ -122,7 +122,7 @@ Zato film ne deluje le kot zabava, temveč tudi kot način razprave o protislovj
 dobe, kjer priročnost in napredek hodita z roko v roki s stresom, osamljenostjo in izgubo
 stikov (Milner in Broughitt, 2003).
 
-!["Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov](images/7-slika5.PNG)
+{{ img(path="images/7-slika5.PNG", alt="Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov") }}
 *"Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov*
 
 Vendar tehnološki napredek ima močan vpliv tako na filmsko obliko kot na vsebino.
@@ -200,7 +200,7 @@ kot sta *No Country For Old Men (2007)* in *Lost in Translation (2003)*, se kon�
 tradicionalnega zaključka, pri čemer poudarjajo razpoloženje in čustveno resnico pred
 narativno gotovostjo.
 
-![Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)](images/7-slika6.PNG)
+{{ img(path="images/7-slika6.PNG", alt="Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)") }}
 *Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)*
 
 Realizem je postal tudi prevladujoč pristop k pripovedovanju zgodb. Mnogi sodobni filmi
@@ -239,7 +239,7 @@ tradicije, ustvarjajo kulturno hibridnost in včasih nasprotujejo togemu okviru 
 identitete. Danes so pretočne platforme, kot sta Netflix in Amazon Prime, opazno povečale
 prepoznavnost takšnih filmov po vsem svetu.
 
-![Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji ](images/7-slika7.PNG)
+{{ img(path="images/7-slika7.PNG", alt="Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji ") }}
 *Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji*
 
 Hkrati pa transnacionalni film prinaša tudi tveganja: zaradi globalnega občinstva je
@@ -247,7 +247,7 @@ mogoče kulture poenostaviti, neravnovesje vpliva ostaja, trgovina pa pritiska n
 (Siraj Al-Maliki, 2025). Kljub temu v najboljšem primeru deluje kot kulturni most: širi pogled
 na svet in odpira nove načine pripovedovanja zgodb.
 
-![Globalizacija filma v sodobnem času. Sestavili avtorji.](images/7-slika8.PNG)
+{{ img(path="images/7-slika8.PNG", alt="Globalizacija filma v sodobnem času. Sestavili avtorji.") }}
 *Globalizacija filma v sodobnem času. Sestavili avtorji.*
 
 Pomembno je tudi, da svetovna kinematografija ni omejena na Združene države: druge
@@ -292,6 +292,6 @@ kjer družba preizkuša svoje ideje, dvome in meje.
 - [ <em> Onkraj velikega platna: Raziskovanje prihodnjega javnega življenja skozi sociološko filmsko analizo. SAGE Open, 14(4). </em> – Eren, İ., & Aktan, E. Ö. A. (2024).  ]( https://doi.org/10.1177/21582440241296074)
 - [ <em> Med slovnicami transnacionalizma in hiper-lokalizacije: strategije Netflixa in Amazona v transnacionalnem pretakanju. Convergence: Mednarodna revija za raziskave novih medijskih tehnologij. Predhodna spletna objava. </em> – Jenner, M. (2025).](https://doi.org/10.1177/13548565251409847 )
 - [ <em> Filmska oblika in kultura ( 5. izdaja). Routledge </em> – Kolker, R., & Gordon, M. (2024).](https://www.taylorfrancis.com/books/mono/10.4324/9781003398875/film-form-culture-robert-kolker-marsha-gordon)
-- [ <em>Vpliv filma na kulturo: Razmišljanja o filmski industriji, nasilnem vplivu in politizirani produkciji vsebin. Komunikacije v humanističnih raziskavah, 13(1), 288–293. </em> –  Lin, H. (2023). ](https://doi.org/10.54254/2753-7064/13/20230366)
+- [ <em>Vpliv filma na kulturo: Razmišljanja o filmski industriji, nasilnem vplivu in politizirani produkciji vsebin. Komunikacije v humanističnih raziskavah, 13(1), 288–293. </em> –  Lin, H. (2023) ](https://doi.org/10.54254/2753-7064/13/20230366)
 - [ <em> Kulturne študije in kulturna teorija. V sodobni kulturni teoriji (3. izdaja, str. 1–20). Routledge. </em> – Milner, A., & Browitt, J. (2003).](https://doi.org/10.4324/9780203964378)
 - [ <em>Transnacionalna pretočna televizija: Preoblikovanje globalnih tokov in moči. Routledge.</em> – Straubhaar, J., Rai, S., Santillana, M., & Dalben, S. (2025). ](https://doi.org/10.4324/9781003505525)

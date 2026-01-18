@@ -12,7 +12,7 @@ categories = ["Podnebje"]
 tags = ["Globalno segrevanje", "Onesnaževanje", "Tehnološke spremembe"]
 +++
 
-![Povezava med tehnologijo, naravo in svetom. Vir: freepik.com](images/6-slika1.png)
+{{ img(path="images/6-slika1.png", alt="Povezava med tehnologijo, naravo in svetom. Vir: freepik.com") }}
 *Povezava med tehnologijo, naravo in svetom. Vir: freepik.com*
 
 
@@ -33,7 +33,7 @@ Vendar pa zgolj sonce in veter včasih ne zadoščata za stabilnost sistema. Tuk
 
 Vse rešitve pa danes povezuje digitalna tehnologija. Čeprav strežniki in pametne naprave sami porabljajo energijo, nam prav digitalizacija omogoča pametnejše in bolj učinkovito upravljanje z viri. Tehnologija nam torej ponuja vsa potrebna orodja, naša naloga pa je, da jih čim hitreje vključimo v vsakdanje življenje. 
 
-![Grafika o okolju prijazni prihodnosti. Vir: Vectorstock.com](images/6-slika3.jpg)
+{{ img(path="images/6-slika3.jpg", alt="Grafika o okolju prijazni prihodnosti. Vir: Vectorstock.com") }}
 *Grafika o okolju prijazni prihodnosti. Vir: Vectorstock.com*
 
 
@@ -49,7 +49,7 @@ V današnji tehnološki dobi se individualna odgovornost ne konča pri tradicion
 
 Pot v trajnostno prihodnost zahteva konkreten premik v našem razmišljanju, kjer tehnologija ne nastopa več kot vir težav, temveč kot osrednje orodje za obnovo planeta. Razumevanje, da so naši digitalni in fizični koraki neločljivo povezani z zdravjem oceanov in stabilnostjo tropskih ekosistemov, mora postati del splošne razgledanosti vsakega posameznika. Prihodnost bo pripadala tistim družbam, ki bodo znale znanstvena dognanja o toplogrednih plinih pretopiti v praktične rešitve. Ključno vodilo naj bo aktivna participacija, bodisi skozi izobraževalne sisteme, ki mlade opolnomočijo za kritično soočanje s podnebnimi izzivi, bodisi skozi vsakodnevne odločitve v okviru kampanj, kot je ActNow. Naša skupna odgovornost je, da inovacije usmerimo v zaščito naravnega ravnovesja in s prepletom tehnološkega napredka ter odgovornega življenjskega sloga zagotovimo varen in stabilen svet za generacije, ki prihajajo. 
 
-![Grafika o zelenemu svetu. Vir: Istockphoto.com](images/6-slika2.PNG)
+{{ img(path="images/6-slika2.PNG", alt="Grafika o zelenemu svetu. Vir: Istockphoto.com") }}
 *Grafika o zelenemu svetu. Vir: Istockphoto.com*
 
 
@@ -66,4 +66,4 @@ Pot v trajnostno prihodnost zahteva konkreten premik v našem razmišljanju, kje
 - [ <em> Global warming and its relationship with the oceans and tropical regions  </em> – ResearchGate](https://www.researchgate.net/publication/396008516_Global_warming_and_its_relationship_with_the_oceans_and_tropical_regions  )
 - [ <em> Human induced CO2 as a primary driver of global warming requires a revisit </em> – ResearchGate](https://www.researchgate.net/publication/399190378_HUMAN_INDUCED_CO2_AS_A_PRIMARY_DRIVER_OF_GLOBAL_WARMING_REQUIRES_A_REVISIT  )
 - [ <em> How Ominous is the Premonition of Future Global Warming</em> – ResearchGate](https://www.researchgate.net/publication/396397101_How_Ominous_is_the_Premonition_of_Future_Global_Warming  )
-- [ <em> Global Warming Impact Assessment due to Carbon Capture and Storage Technologies </em> – ResearchGate](https://www.researchgate.net/publication/365319256_Global_Warming_Impact_Assessment_due_to_Carbon_Capture_and_Storage_Technologies_in_Electricity_Generating_Power_Plants?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ )
+- [ <em> Global Warming Impact Assessment due to Carbon Capture and Storage Technologies. </em> – ResearchGate](https://www.researchgate.net/publication/365319256_Global_Warming_Impact_Assessment_due_to_Carbon_Capture_and_Storage_Technologies_in_Electricity_Generating_Power_Plants?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InNlYXJjaCIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ )

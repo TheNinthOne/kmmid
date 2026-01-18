@@ -13,14 +13,9 @@ tags = ["digitalna varnost", "virusi", "gesla"]
 +++
 
 Prisluhnite zvočni verziji: 
-<div class="video">
-<audio controls>
-  <source src="images/12-audio.mp3" type="audio/ogg">
-  <source src="images/12-audio.mp3" type="audio/mpeg">
-Audio posnetek clanka
-</audio>
+{{ audio(src="images/12-audio.mp3", ogg="images/12-audio.mp3", label="Audio posnetek clanka") }}
 
-![Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)](images/12-slika1.jpg)
+{{ img(path="images/12-slika1.jpg", alt="Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)") }}
 *Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)*
 
 # Na prvi obrambni črti so gesla
@@ -68,7 +63,7 @@ Zadnji steber osebne varnosti je redna “tehnična higiena”. Zakaj temu reče
 
 Strokovnjaki poudarjajo, da je osnovna zaščita v rokah posameznika. Močna in edinstvena gesla, dvostopenjska avtentikacija ter redno posodabljanje programske opreme bistveno zmanjšajo tveganje za napade. Nacionalni odzivni center za kibernetsko varnost SI-CERT opozarja, da velik delež incidentov nastane zaradi človeške nepazljivosti, ne tehničnih pomanjkljivosti. Poleg tehničnih ukrepov je ključna tudi digitalna pismenost. Razumevanje osnov delovanja interneta, prepoznavanje sumljivih vsebin in kritično vrednotenje informacij pomagajo posamezniku pri varnem ravnanju na spletu.
 
-![4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić](images/12-slika2.PNG)
+{{ img(path="images/12-slika2.PNG", alt="4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić") }}
 *4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić*
 
 # Prihodnost osebne kibernetske varnosti
@@ -86,4 +81,4 @@ Kibernetska varnost posameznika bo v prihodnje še pomembnejša, saj se razvijaj
 
 - [ <em>Varni na internetu (SI-CERT)</em>](https://www.varninainternetu.si) : Osrednji slovenski portal za ozaveščanje o spletnih nevarnostih.
 - [ <em> Enisa (EU Agency for Cybersecurity) </em>](https://www.enisa.europa.eu) : Evropski standardi in poročila o kibernetskih grožnjah.
-- [ <em> NIST (Digital Identity Guidelines)</em>](https://www.nist.gov) : Mednarodna merila za varno avtentikacijo in upravljanje identitet.
+- [ <em> NIST (Digital Identity Guidelines).</em>](https://www.nist.gov) : Mednarodna merila za varno avtentikacijo in upravljanje identitet.

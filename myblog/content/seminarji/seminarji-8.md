@@ -12,14 +12,14 @@ categories = ["Energetika"]
 tags = ["sončne celice", "zelena energija", "prihranek"]
 +++
 
-![Cover image](images/8-slikaa1.jpg)
+{{ img(path="images/8-slikaa1.jpg", alt="Cover image") }}
 
 
 # Kako deluje sončna elektrarna na strehi? 
 
 Osrednji element sončne elektrarne so fotovoltaični paneli, ki so običajno nameščeni na strehi objekta. Ti paneli pretvarjajo sončno svetlobo neposredno v enosmerni električni tok. Ključen del sistema je razsmernik (inverter), ki enosmerni tok pretvori v izmenični tok, kakršnega uporabljamo v gospodinjstvu in je skladen z električnim omrežjem. Proizvedena električna energija se nato porablja v gospodinjstvu, viški pa se oddajajo v javno omrežje. Sistem deluje avtomatsko in običajno ne zahteva posebnega vzdrževanja, razen občasnega čiščenja panelov. 
 
-![Delovanje sončnih celic. (vir: varcevanje-energije.si) ](images/8-slikaa2.webp)
+{{ img(path="images/8-slikaa2.webp", alt="Delovanje sončnih celic. (vir: varcevanje-energije.si)") }}
 *Delovanje sončnih celic. (vir: varcevanje-energije.si)*
 
 # Ekonomski prihranki in dolgoročne koristi 
@@ -31,14 +31,14 @@ Eden glavnih motivov za namestitev sončne elektrarne so finančni prihranki. Z 
 
 Kljub številnim prednostim je treba upoštevati tudi nekatere izzive in dejavnike pri načrtovanju sončne elektrarne. Mednje spadajo začetna investicija, ki je lahko precejšnja, čeprav so na voljo različne subvencije in ugodna posojila. Pomembna je tudi primernost lokacije – streha mora biti dovolj velika, optimalno usmerjena proti jugu in nezasenčena. Upoštevati je treba tudi lokalne predpise in soglasja. V zimskih mesecih ali ob slabem vremenu je proizvodnja električne energije manjša, zato je pomembno ustrezno načrtovanje sistema in morebitna rešitev za shranjevanje energije (npr. baterije). Pri ugotavljanju primernosti in načrtovanju postavitve vam pomagajo podjetja, ki vam lahko sončne celice tudi zmontirajo. 
 
-![O lokaciji, montaži in usmerjenosti se posvetujte s strokovnjaki. (vir: Adobe Stock) ](images/8-slikaa3.jpg)
+{{ img(path="images/8-slikaa3.jpg", alt="O lokaciji, montaži in usmerjenosti se posvetujte s strokovnjaki. (vir: Adobe Stock)") }}
 *O lokaciji, montaži in usmerjenosti se posvetujte s strokovnjaki. (vir: Adobe Stock)*
 
 # Stanje sončnih celic v Sloveniji 
 
 Slovenija je v zadnjih letih doživela pravi razcvet fotovoltaike. Do konca leta 2024 je bilo na slovensko omrežje priključenih že več kot 64.500 sončnih elektrarn s skupno močjo približno 1.400 MW. Čeprav se je po rekordnem letu 2023 rast nekoliko umirila zaradi sprememb v shemah samooskrbe, sončna energija zdaj zagotavlja že okoli 7 % celotne proizvedene električne energije v državi. Zanimiva je primerjava na prebivalca: slovensko povprečje znaša približno 668 W nameščene moči na prebivalca, kar nas uvršča med prvih šest držav v Evropski uniji. Regionalno prednjači Savinjska regija, medtem ko Primorsko-notranjska vodi po moči na prebivalca (preko 1000 W/prebivalca).  
 
-![Viri energije v Sloveniji. (vir: SURS) ](images/8-slika4.png)
+{{ img(path="images/8-slika4.png", alt="Viri energije v Sloveniji. (vir: SURS)") }}
 *Viri energije v Sloveniji. (vir: SURS)*
 
 # Kaj prinašajo inovacije na področju sončne energije? 
@@ -56,5 +56,5 @@ Oglejte si spodnji video, v katerem vam vodja prodaje na Tratnjeku Cveto Pernek 
 
 - [ <em>Soncna elektrana Tratnjek</em>](https://tratnjek.si/soncna-elektrarna-tratnjek/)
 - [ <em> Trajnostne resitve in soncne eletrarne</em>  ](https://gen-i.si/dom/trajnostne-resitve/soncne-elektrarne/   )
-- [ <em> Katere so prednosti in pasti soncnih eletrarn </em> – 24ur ](https://www.24ur.com/novice/slovenija/katere-so-prednosti-in-pasti-soncnih-elektrarn.html   )
+- [ <em> Katere so prednosti in pasti soncnih eletrarn </em> – 24ur. ](https://www.24ur.com/novice/slovenija/katere-so-prednosti-in-pasti-soncnih-elektrarn.html   )
 - [ <em> Statisticni urad republike slovenije </em>](https://www.stat.si/StatWeb/Field/Index/5  )

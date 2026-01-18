@@ -1,0 +1,9 @@
+<div class="video">
+  <audio controls{% if preload %} preload="{{ preload }}"{% endif %}>
+    <source src="{{ get_url(path=src) }}" type="audio/mpeg">
+    {% if ogg %}
+      <source src="{{ get_url(path=ogg) }}" type="audio/ogg">
+    {% endif %}
+    {{ label | default(value="Audio posnetek clanka") }}
+  </audio>
+</div>
