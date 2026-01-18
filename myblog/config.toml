@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://kmmid.si"
+base_url = "https://theninthone.github.io/kmmid/"
 title="MedijskaPredilnica"
 
 # Whether to automatically compile all Sass files in the sass directory
