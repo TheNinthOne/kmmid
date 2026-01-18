@@ -12,7 +12,7 @@ categories = ["Umetna Inteligenca"]
 tags = ["novice", "umetna inteligenca", "lažne novice"]
 +++
 
-![Če ljudje ne morejo več zanesljivo razlikovati med resničnimi informacijami in generiranimi vsebinami, to spodkopava njihovo vero v tradicionalne medije in novinarstvo. (Vir: The New York Times - Irene Rinaldi) ](/images/5-slika.jpg)
+![Če ljudje ne morejo več zanesljivo razlikovati med resničnimi informacijami in generiranimi vsebinami, to spodkopava njihovo vero v tradicionalne medije in novinarstvo. (Vir: The New York Times - Irene Rinaldi) ](images/5-slika.jpg)
 *Če ljudje ne morejo več zanesljivo razlikovati med resničnimi informacijami in generiranimi vsebinami, to spodkopava njihovo vero v tradicionalne medije in novinarstvo. (Vir: The New York Times - Irene Rinaldi)*
 
 Zamislite si, da novica, ki celo vsebuje video dokazilo, ki jo vidite na Instagramu ali TikToku, ni resnična — vendar izgleda tako verodostojno, da je celo tvoji prijatelji delijo. Danes to ni več le hipotetičen scenarij, temveč realnost: umetna inteligenca (UI) je postala orodje, ki omogoča hitro in preprosto ustvarjanje napačnih ali zavajajočih vsebin, ki zmedejo tako  mlade kot starejše uporabnike interneta. 
@@ -27,7 +27,7 @@ Po najnovejši študiji, o kateri poroča CNN, se vedno več ameriških najstnik
 
 Umetna inteligenca uporablja velike jezikovne modele in generativne nevronske mreže, kar omogoča ustvarjanje novic, senzacionalističnih naslovov ali celo deepfake videoposnetkov, ki lahko uporabnike prepričajo, da se je nekaj zgodilo, čeprav se ni. To omogoča vsakomur — dobronamernemu ali ne, da ustvari vsebino, ki gotovo izgleda resnična. 
 
-![UI-ustvarjen (deepfake) posnetek Joeja Bidna z različnimi čustvenimi izrazi kot odziv na izjave Donalda Trumpa. Posnetek ni resničen in prikazuje, kako lahko umetna inteligenca ustvari prepričljive lažne vsebine. (Vir: University of Rochester) ](/images/5-gif.gif)
+![UI-ustvarjen (deepfake) posnetek Joeja Bidna z različnimi čustvenimi izrazi kot odziv na izjave Donalda Trumpa. Posnetek ni resničen in prikazuje, kako lahko umetna inteligenca ustvari prepričljive lažne vsebine. (Vir: University of Rochester) ](images/5-gif.gif)
 *UI-ustvarjen (deepfake) posnetek Joeja Bidna z različnimi čustvenimi izrazi kot odziv na izjave Donalda Trumpa. Posnetek ni resničen in prikazuje, kako lahko umetna inteligenca ustvari prepričljive lažne vsebine. (Vir: University of Rochester)*
 
 
@@ -37,7 +37,7 @@ Primer iz Slovenije kaže, kako so prevaranti s pomočjo umetne inteligence ustv
 
 Raziskave, opravljene ob svetovnem tednu medijske in informacijske pismenosti, kažejo, da je v Sloveniji skoraj polovica prebivalcev zaskrbljena zaradi vpliva umetne inteligence na ustvarjanje in širjenje lažnih novic. Kar 47 odstotkov Slovencev izraža skrb, da umetna inteligenca ustvarja in širi lažne informacije, pri čemer je nezaupanje večje kot v nekaterih sosednjih državah, kot sta Hrvaška in Srbija (v obeh primerih 40 odstotkov). Posebej izstopajo starejši prebivalci in višje izobraženi, kar kaže na to, da se del slovenske javnosti zaveda kompleksnosti in možnih posledic nekritične uporabe novih tehnologij. 
 
-![Slovenija nad regionalnim povprečjem po zaskrbljenosti zaradi lažnih vsebin UI. (Podatki: 24ur)](/images/5-graf.png)
+![Slovenija nad regionalnim povprečjem po zaskrbljenosti zaradi lažnih vsebin UI. (Podatki: 24ur)](images/5-graf.png)
 *Slovenija nad regionalnim povprečjem po zaskrbljenosti zaradi lažnih vsebin UI. (Podatki: 24ur)*
 
 V Sloveniji postaja vse pomembnejše vlaganje v medijsko in informacijsko pismenost. Strokovnjaki za umetno inteligenco in medije, med njimi Marko Grobelnik in Sašo Dolenc, opozarjajo, da bodo morali imeti ključno vlogo tako izobraževalni sistem kot tudi verodostojni mediji, ki delujejo kot filter med resničnimi in zavajajočimi informacijami. Ob tem se Slovenija vključuje tudi v širše evropske pobude za regulacijo umetne inteligence, katerih cilj je večja transparentnost in zaščita javnosti pred zlorabami tehnologije. 

@@ -46,7 +46,7 @@ vizualni jezik devetdesetih let in danes: barvo, svetlobo, ritem montaže in "vi
 Tarantinov primer pokaže, kako se obdobje premika od ostrih kontrastov in nervozne
 energije do tople nostalgije in bolj premišljenega tempa.
 
-![Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.](/images/7-slika.PNG)
+![Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.](images/7-slika.PNG)
 *Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.*
 
 Film je hkrati umetnost, industrija in množični medij. Zato je dober pokazatelj kulturnih
@@ -63,7 +63,7 @@ napredka tehnologije, ampak tudi zato, ker se je življenje dramatično spremeni
 bili trendi drugačni, filmi so kazali drugačen smisel za humor, drugačen način izražanja
 čustev in tako naprej.
 
-![Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.](/images/7-slika2.PNG)
+![Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.](images/7-slika2.PNG)
 *Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.*
 
 Knjiga *“Film, forma in kultura”* avtorjev Kolkerja in Gordona (2024) nas poziva, naj film
@@ -82,7 +82,7 @@ in zgodbe ter vpliva na to, kako ljudje razumejo resničnost in sebe
 V sodobnem filmu je identiteta prikazana kot proces: liki nastajajo pod pritiskom družbe,
 pričakovanj in lastnih negotovosti.
 
-![Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.](/images/7-slika3.PNG)
+![Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.](images/7-slika3.PNG)
 *Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.*
 
 Milner in Browitt (2003) ponujata preprost, a uporaben pogled: film je treba brati kot
@@ -99,7 +99,7 @@ hiperpovezanem svetu, kjer digitalna komunikacija nadomešča resnične človeš
 lahko počutijo globoko osamljene, tudi ko so obkroženi z drugimi. S prikazovanjem teh
 težav sodobna kinematografija omogoča občinstvu, da se prepozna na platnu.
 
-![Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj](/images/7-slika4.PNG)
+![Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj](images/7-slika4.PNG)
 *Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj*
 
 # TEHNOLOGIJA IN SODOBNO ŽIVLJENJE (DRUŽBENA OMREŽJA, UMETNA INTELIGENCA, NADZOR, HITROST, IZOLACIJA)
@@ -122,7 +122,7 @@ Zato film ne deluje le kot zabava, temveč tudi kot način razprave o protislovj
 dobe, kjer priročnost in napredek hodita z roko v roki s stresom, osamljenostjo in izgubo
 stikov (Milner in Broughitt, 2003).
 
-!["Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov](/images/7-slika5.PNG)
+!["Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov](images/7-slika5.PNG)
 *"Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov*
 
 Vendar tehnološki napredek ima močan vpliv tako na filmsko obliko kot na vsebino.
@@ -200,7 +200,7 @@ kot sta *No Country For Old Men (2007)* in *Lost in Translation (2003)*, se kon�
 tradicionalnega zaključka, pri čemer poudarjajo razpoloženje in čustveno resnico pred
 narativno gotovostjo.
 
-![Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)](/images/7-slika6.PNG)
+![Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)](images/7-slika6.PNG)
 *Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)*
 
 Realizem je postal tudi prevladujoč pristop k pripovedovanju zgodb. Mnogi sodobni filmi
@@ -239,7 +239,7 @@ tradicije, ustvarjajo kulturno hibridnost in včasih nasprotujejo togemu okviru 
 identitete. Danes so pretočne platforme, kot sta Netflix in Amazon Prime, opazno povečale
 prepoznavnost takšnih filmov po vsem svetu.
 
-![Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji ](/images/7-slika7.PNG)
+![Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji ](images/7-slika7.PNG)
 *Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji*
 
 Hkrati pa transnacionalni film prinaša tudi tveganja: zaradi globalnega občinstva je
@@ -247,7 +247,7 @@ mogoče kulture poenostaviti, neravnovesje vpliva ostaja, trgovina pa pritiska n
 (Siraj Al-Maliki, 2025). Kljub temu v najboljšem primeru deluje kot kulturni most: širi pogled
 na svet in odpira nove načine pripovedovanja zgodb.
 
-![Globalizacija filma v sodobnem času. Sestavili avtorji.](/images/7-slika8.PNG)
+![Globalizacija filma v sodobnem času. Sestavili avtorji.](images/7-slika8.PNG)
 *Globalizacija filma v sodobnem času. Sestavili avtorji.*
 
 Pomembno je tudi, da svetovna kinematografija ni omejena na Združene države: druge

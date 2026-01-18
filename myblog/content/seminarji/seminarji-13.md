@@ -12,7 +12,7 @@ categories = ["zdravje"]
 tags = ["psihiatrija", "dusevne bolezni", "anksioznost", "mladi"]
 +++
 
-![Duševne stiske se lahko kažejo kot začasna čustvena nihanja ali kot dolgotrajnejše težave, ki vplivajo na delovanje posameznika ](/images/13-slika1.PNG)
+![Duševne stiske se lahko kažejo kot začasna čustvena nihanja ali kot dolgotrajnejše težave, ki vplivajo na delovanje posameznika ](images/13-slika1.PNG)
 *Duševne stiske se lahko kažejo kot začasna čustvena nihanja ali kot dolgotrajnejše težave, ki vplivajo na delovanje posameznika*
 
 
@@ -27,7 +27,7 @@ Povpraševanje po obravnavi duševnih motenj pri otrocih in mladostnikih se je m
 
 Med mladimi se najpogosteje pojavljajo anksiozne motnje, depresija in motnje hranjenja. **Nacionalni inštitut za javno zdravje (NIJZ)** opozarja, da se simptomi tesnobe in depresije pogosto pojavijo že v zgodnji adolescenci, vendar ostajajo dolgo neprepoznani ali prepozno obravnavani. Raziskave kažejo, da se pomemben delež mladih spoprijema z duševnimi stiskami, ki presegajo običajne razvojne izzive, to vključuje hude simptome anksioznosti, depresivnosti in stresa, občutke osamljenosti, nizko telesno samopodobo ter tveganje za motnje hranjenja. Samopoškodovalna vedenja in samomorilne misli nakazujejo, da stiske niso vedno prehodne ali blage, temveč zahtevajo varno in podporno okolje.
 
-![Simptomi, ki so značilni za anksioznost, eno najpogostejših duševnih motenj med mladimi (16–24 let) v Sloveniji, kot izpostavlja raziskava Duševno zdravje mladih v Sloveniji ](/images/13-slika2.PNG)
+![Simptomi, ki so značilni za anksioznost, eno najpogostejših duševnih motenj med mladimi (16–24 let) v Sloveniji, kot izpostavlja raziskava Duševno zdravje mladih v Sloveniji ](images/13-slika2.PNG)
 *Simptomi, ki so značilni za anksioznost, eno najpogostejših duševnih motenj med mladimi (16–24 let) v Sloveniji, kot izpostavlja raziskava Duševno zdravje mladih v Sloveniji*
 
 
@@ -35,7 +35,7 @@ Po podatkih raziskave *Z zdravjem povezano vedenje v šolskem obdobju*, ki sprem
 
 Na naraščajoče stiske opozarjajo tudi strokovnjaki iz prakse. **Klinična psihologinja dr. Mateja Hudoklin** iz Svetovalnega centra za otroke, mladostnike in starše Ljubljana, *je opozorila: «V ambulantah smo opažali več otrok in mladostnikov z anksioznimi motnjami, depresivno simptomatiko in samomorilnim vedenjem, z znižano motivacijo za šolsko delo in aktivnosti na splošno, motnjami hranjenja ter pretirano rabo zaslonov«.* Ob tem poudarja, da so strokovne službe pogosto preobremenjene in težko sledijo vsem strokovnim standardom, saj je število mladih, ki potrebujejo pomoč, veliko. 
 
-![Najpogostejše oblike duševnih stisk med 1.059 mladimi (16–24 let) iz vse Slovenije, sodelujočimi v raziskavi, izvedeni med junijem in septembrom 2024. Starostne skupine so bile enakomerno zastopane, delež moških je 51,6 %, žensk pa 48,4 % ](/images/13-slika3.PNG)
+![Najpogostejše oblike duševnih stisk med 1.059 mladimi (16–24 let) iz vse Slovenije, sodelujočimi v raziskavi, izvedeni med junijem in septembrom 2024. Starostne skupine so bile enakomerno zastopane, delež moških je 51,6 %, žensk pa 48,4 % ](images/13-slika3.PNG)
 *Najpogostejše oblike duševnih stisk med 1.059 mladimi (16–24 let) iz vse Slovenije, sodelujočimi v raziskavi, izvedeni med junijem in septembrom 2024. Starostne skupine so bile enakomerno zastopane, delež moških je 51,6 %, žensk pa 48,4 %*
 
 
@@ -45,7 +45,7 @@ Naraščanje duševnih stisk med mladimi ni naključen pojav. Kot navaja portal 
 
 Poleg digitalnih pritiskov se mladi soočajo tudi z izobraževalnimi obremenitvami, negotovimi zaposlitvenimi perspektivami in družbenimi pričakovanji, kar ustvarja okolje kroničnega stresa. Spremenjene družinske strukture, socialna izolacija ter dolgotrajne posledice pandemije COVID-19 še dodatno poglabljajo občutek negotovosti in psihološke obremenitve. Hkrati pomanjkanje dostopnih virov pomoči in še vedno prisotna stigma otežujeta pravočasno prepoznavanje težav in iskanje strokovne podpore. 
 
-![Psihologinja in psihoterapevtka Klavdija Zver Zahwi pojasnjuje, kaj lahko nakazuje na depresivno motnjo](/images/13-slika4.PNG)
+![Psihologinja in psihoterapevtka Klavdija Zver Zahwi pojasnjuje, kaj lahko nakazuje na depresivno motnjo](images/13-slika4.PNG)
 *Psihologinja in psihoterapevtka Klavdija Zver Zahwi pojasnjuje, kaj lahko nakazuje na depresivno motnjo*
 
 Ker duševno zdravje pomembno vpliva na izobraževalni uspeh, socialne odnose in dolgoročne življenjske izide, povečane potrebe po psihoterapiji ni mogoče razumeti zgolj kot trend. Gre za jasno opozorilo, da je nujno vzpostaviti celostno in dostopno strategijo podpore mladim, ki vključuje kakovostne terapevtske storitve in sistemsko preventivo. 
@@ -67,7 +67,7 @@ Zaradi dolgih čakalnih dob so posamezniki pogosto prisiljeni poiskati pomoč zu
 
 Povečana potreba po psihoterapiji ni le posledica večje ozaveščenosti, temveč tudi pomanjkanja sistematične preventive. Programi za krepitev duševnega zdravja v šolah, zgodnje prepoznavanje stisk in dostopne svetovalne službe so ključni za dolgoročno zmanjševanje resnejših težav. 
 
-![Nasveti kako do pomoci](/images/13-slika5.PNG)
+![Nasveti kako do pomoci](images/13-slika5.PNG)
 *Nasveti kako do pomoci*
 
 
@@ -84,8 +84,8 @@ Duševne stiske niso znak šibkosti. Pravočasno iskanje pomoči in pogovor lahk
 
 <div class="video">
 <audio controls>
-  <source src="/images/13-audio.mp3" type="audio/ogg">
-  <source src="/images/13-audio.mp3" type="audio/mpeg">
+  <source src="images/13-audio.mp3" type="audio/ogg">
+  <source src="images/13-audio.mp3" type="audio/mpeg">
 Audio posnetek clanka
 </audio>
 </div>

@@ -67,10 +67,10 @@ webmanifest = "/icons/site.webmanifest"
 # Author details
 [extra.author]
 name = "MedijskaPredilnica"
-avatar = "/images/avatar2.svg"
+avatar = "images/avatar2.svg"
 
 [extra.seminarji]
-avatar2 = "/images/purring_cat.svg"
+avatar2 = "images/purring_cat.svg"
 
 # Social links
 [extra.social]

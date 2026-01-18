@@ -12,7 +12,7 @@ categories = ["Zaposlovanje mladih"]
 tags = ["trg dela", "generacija Z", "zaposlovanje"]
 +++
 
-![Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock](/images/4-slika1.jpeg)
+![Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock](images/4-slika1.jpeg)
 *Mladi po koncu študija zaposlitev iščejo tudi po več mesecev. / vir: Shutterstock*
 
 # Zahtevane izkušnje prvi izziv zaposlovanja
@@ -36,8 +36,8 @@ Slovenija izstopa s sistemom študentskega dela, ki je velikokrat dvorezen meč.
 
 <div class="video">
 <audio controls>
-  <source src="/images/4-audio.mp3" type="audio/ogg">
-  <source src="/images/4-audio.mp3" type="audio/mpeg">
+  <source src="images/4-audio.mp3" type="audio/ogg">
+  <source src="images/4-audio.mp3" type="audio/mpeg">
 Studentske napotnice audio
 </audio>
 </div>
@@ -49,14 +49,14 @@ Na trg dela je nedavno vstopil nov tekmec, ki ne potrebuje malice in ne zahteva 
 # Nove vrednote mladih na delovnem mestu 
 Generacija Z se pri vstopu na trg dela pogosto sooča z obtožbami, da je manj motivirana, razvajena ali težavna, a so še par let nazaj enake obtožbe bile usmerjene na milenijce. Raziskovalci opozarjajo, da gre pri tem predvsem za napačno interpretacijo spremenjenih vrednot in pričakovanj. Mladi danes veliko bolj cenijo ravnovesje med poklicnim in zasebnim življenjem, smiselnost dela, duševno zdravje in podporno delovno okolje, kar pogosto pretehta nad zgolj višino plače. Delo tako ni več edini smisel življenja, ampak sredstvo za doseganje ciljev. Nova generacija torej dela ne zavrača, temveč postavlja zdrave meje, išče fleksibilnost in priložnosti za rast. Podjetja se tako soočajo s pritiskom, da prilagodijo svojo kulturo, delovne pogoje in sisteme nagrajevanja, če želijo pridobiti in obdržati talentirane mlade delavce. 
 
-![Javnomnenjska anketa](/images/4-javnomnenjska_anketa.jpg)
+![Javnomnenjska anketa](images/4-javnomnenjska_anketa.jpg)
 *Javnomnenjska anketa*
 
 
 # Slovenija gasi požar brezposelnosti mladih
 Kljub alarmantnim trendom obstajajo premiki na bolje. V Sloveniji se je število dolgotrajno brezposelnih v zadnjem obdobju zmanjšalo na 18 tisoč, kar je spodbuden podatek. Ministrstvo je napovedalo nove subvencije za trajno zaposlovanje mladih, s katerimi želi delodajalce motivirati za sklepanje pogodb za nedoločen čas. Ukrepi ciljajo predvsem na premostitev tveganja, ki ga delodajalci vidijo v zaposlovanju mladih brez izkušenj, in predstavljajo nujen korektiv trga, ki sam od sebe ne deluje v korist mladih. 
 
-![Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si ](/images/4-slika2.jpg)
+![Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si ](images/4-slika2.jpg)
 *Mladi spremljajo trg dela in razmišljajo o svoji prihodnosti. / vir: mladina.si*
 
 Čeprav se danes zdi, da so mladi v podrejenem položaju, prihodnost prinaša nepričakovan zasuk. Zaradi hitrega staranja prebivalstva se bo bazen delovne sile v razvitih državah drastično skrčil. Mladi delavci bodo postali redka in dragocena dobrina, kar bo neizogibno dvignilo njihovo ceno in pogajalsko moč. Delodajalci bodo prisiljeni tekmovati za vsakega posameznika ne le s plačo, temveč s pogoji dela, ki bodo vključevali varnost, stabilnost in možnosti za dolgoročni karierni razvoj. 

@@ -25,11 +25,11 @@
         <content type="html" xml:base="https://theninthone.github.io/kmmid/seminarji/seminarji-12/">&lt;p&gt;Prisluhnite zvočni verziji:&lt;&#x2F;p&gt;
 &lt;div class=&quot;video&quot;&gt;
 &lt;audio controls&gt;
-  &lt;source src=&quot;&#x2F;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;ogg&quot;&gt;
-  &lt;source src=&quot;&#x2F;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;mpeg&quot;&gt;
+  &lt;source src=&quot;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;ogg&quot;&gt;
+  &lt;source src=&quot;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;mpeg&quot;&gt;
 Audio posnetek clanka
 &lt;&#x2F;audio&gt;
-&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;12-slika1.jpg&quot; alt=&quot;Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)&quot; &#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;seminarji&#x2F;seminarji-12&#x2F;images&#x2F;12-slika1.jpg&quot; alt=&quot;Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)&quot; &#x2F;&gt;
 &lt;em&gt;Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;na-prvi-obrambni-crti-so-gesla&quot;&gt;Na prvi obrambni črti so gesla&lt;&#x2F;h1&gt;
 &lt;p&gt;Osnova vsake osebne zaščite so dostopni podatki. Strokovnjaki poudarjajo, da so kratka in ponavljajoča se gesla v času kvantnega računalništva postala povsem neuporabna. Danes je nujna uporaba &lt;strong&gt;upravljalnikov gesel&lt;&#x2F;strong&gt; in dosledna aktivacija &lt;strong&gt;večfaktorske avtentikacije (MFA, multi-factor authentication)&lt;&#x2F;strong&gt;. MFA doda kritično plast varnosti, saj napadalcu ne zadostuje le geslo, temveč potrebuje še fizični dostop do vaše naprave ali biometrični podatek. Po podatkih portala &lt;em&gt;Varni na internetu&lt;&#x2F;em&gt; (SI-CERT) lahko prav MFA prepreči do 99 % avtomatiziranih napadov na uporabniške račune.&lt;&#x2F;p&gt;
@@ -66,7 +66,7 @@ Audio posnetek clanka
 &lt;p&gt;Zadnji steber osebne varnosti je redna “tehnična higiena”. Zakaj temu rečemo prav higiena? Naprave s zastarelo programsko opremo so polne varnostnih lukenj, ki jih napadalci takoj izkoristijo. Redno posodabljanje operacijskih sistemov in aplikacij je nuja. Posebno pozornost je potrebno dati tudi javnim Wi-Fi omrežjem. Uporaba &lt;strong&gt;VPN&lt;&#x2F;strong&gt; (ang. virtual private network), ki izgleda navidezno kot zasebno omrežje, je obvezna za vsakogar, ki se povezuje na splet na letališčih ali v kavarnah, saj šifrira vaš promet in preprečuje &quot;prisluškovanje&quot; vašim podatkom.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;vloga-posameznika-pri-zasciti&quot;&gt;Vloga posameznika pri zaščiti&lt;&#x2F;h1&gt;
 &lt;p&gt;Strokovnjaki poudarjajo, da je osnovna zaščita v rokah posameznika. Močna in edinstvena gesla, dvostopenjska avtentikacija ter redno posodabljanje programske opreme bistveno zmanjšajo tveganje za napade. Nacionalni odzivni center za kibernetsko varnost SI-CERT opozarja, da velik delež incidentov nastane zaradi človeške nepazljivosti, ne tehničnih pomanjkljivosti. Poleg tehničnih ukrepov je ključna tudi digitalna pismenost. Razumevanje osnov delovanja interneta, prepoznavanje sumljivih vsebin in kritično vrednotenje informacij pomagajo posamezniku pri varnem ravnanju na spletu.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;12-slika2.PNG&quot; alt=&quot;4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić&quot; &#x2F;&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;seminarji&#x2F;seminarji-12&#x2F;images&#x2F;12-slika2.PNG&quot; alt=&quot;4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić&quot; &#x2F;&gt;
 &lt;em&gt;4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;prihodnost-osebne-kibernetske-varnosti&quot;&gt;Prihodnost osebne kibernetske varnosti&lt;&#x2F;h1&gt;
 &lt;p&gt;Kibernetska varnost posameznika bo v prihodnje še pomembnejša, saj se razvijajo umetna inteligenca, pametne naprave in biometrična identifikacija. V prihodnje bodo napadi vse bolj personalizirani in avtomatizirani, kar pomeni, da bo zaščita zahtevala stalno prilagajanje in učenje. Posameznik bo moral postati aktiven udeleženec lastne digitalne varnosti, ne le pasivni uporabnik tehnologije.&lt;&#x2F;p&gt;

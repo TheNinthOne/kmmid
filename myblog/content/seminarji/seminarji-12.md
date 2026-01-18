@@ -15,12 +15,12 @@ tags = ["digitalna varnost", "virusi", "gesla"]
 Prisluhnite zvočni verziji: 
 <div class="video">
 <audio controls>
-  <source src="/images/12-audio.mp3" type="audio/ogg">
-  <source src="/images/12-audio.mp3" type="audio/mpeg">
+  <source src="images/12-audio.mp3" type="audio/ogg">
+  <source src="images/12-audio.mp3" type="audio/mpeg">
 Audio posnetek clanka
 </audio>
 
-![Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)](/images/12-slika1.jpg)
+![Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)](images/12-slika1.jpg)
 *Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)*
 
 # Na prvi obrambni črti so gesla
@@ -68,7 +68,7 @@ Zadnji steber osebne varnosti je redna “tehnična higiena”. Zakaj temu reče
 
 Strokovnjaki poudarjajo, da je osnovna zaščita v rokah posameznika. Močna in edinstvena gesla, dvostopenjska avtentikacija ter redno posodabljanje programske opreme bistveno zmanjšajo tveganje za napade. Nacionalni odzivni center za kibernetsko varnost SI-CERT opozarja, da velik delež incidentov nastane zaradi človeške nepazljivosti, ne tehničnih pomanjkljivosti. Poleg tehničnih ukrepov je ključna tudi digitalna pismenost. Razumevanje osnov delovanja interneta, prepoznavanje sumljivih vsebin in kritično vrednotenje informacij pomagajo posamezniku pri varnem ravnanju na spletu.
 
-![4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić](/images/12-slika2.PNG)
+![4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić](images/12-slika2.PNG)
 *4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić*
 
 # Prihodnost osebne kibernetske varnosti

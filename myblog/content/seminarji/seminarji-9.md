@@ -12,7 +12,7 @@ categories = ["Pametni telefoni"]
 tags = ["druzba", "screen time"]
 +++
 
-![Prekomerna raba telefonov](/images/9-slika1.jpg)
+![Prekomerna raba telefonov](images/9-slika1.jpg)
 *Prekomerna raba telefonov*
 
 
@@ -23,7 +23,7 @@ Več raziskav je pokazalo, da je prekomerna raba pametnih telefonov povezana s �
 Problematična uporaba je povezana tudi z nizko samozavestjo, socialno anksioznostjo in težavami pri ustvarjanju pristnih medosebnih odnosov. Študije kažejo, da daljša izpostavljenost zaslonu in stalna potreba po preverjanju telefona lahko ustvarita občutek tesnobe ali strahu pred izgubo dostopa do naprave.
 
 
-![Prekomerna raba telefona vpliva na samopodobo](/images/9-slika2.jpg)
+![Prekomerna raba telefona vpliva na samopodobo](images/9-slika2.jpg)
 *Prekomerna raba telefona vpliva na samopodobo*
 
 # Posledice za telesno zdravje in vsakdanje funkcije
@@ -40,8 +40,8 @@ Najnovejša sociološka raziskava, objavljena v reviji Frontiers in Psychology (
 Preverili smo koliko časa na telefonih preživijo študenti ene izmed Mariborskih fakultet
 
 <div class="video">
-  <video controls="" title=" telefonih preživijo študenti ene izmed Mariborskih fakultet" width="100%" poster="/images/1-video.mp4">
-    <source src="/images/9-video.mp4" type="video/mp4">
+  <video controls="" title=" telefonih preživijo študenti ene izmed Mariborskih fakultet" width="100%" poster="images/1-video.mp4">
+    <source src="images/9-video.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -51,7 +51,7 @@ Zaradi negativnih učinkov prekomerne uporabe telefonov se vse več ljudi odloč
 
 Primer takega pristopa je 30-dnevni izziv digitalnega detoxa, ki vključuje korake, kot so izklop nepotrebnih obvestil, omejitev uporabe družbenih omrežij, uvedba “ne-telefonskih” časov dneva in vnaprejšnje načrtovanje aktivnosti brez zaslona. Takšni programi spodbujajo zavedno in bolj uravnoteženo rabo tehnologije, kar lahko posledično izboljša produktivnost, kakovost spanja in medosebne odnose.
 
-![Primer 30-dnevnega detoxa](/images/9-slika3.png)
+![Primer 30-dnevnega detoxa](images/9-slika3.png)
 *Primer 30-dnevnega detoxa*
 
 # Raziskave in perspektive za prihodnost
