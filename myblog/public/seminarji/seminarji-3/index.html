@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+
+  
+  <link href='&#x2F;icons&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;icons&#x2F;safari-pinned-tab.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css" integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
+  
+
+  
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" integrity="sha384-oGm59HWAkwO32h2w8u0B98wKBZJwd6MbWtAJwQKCTffZjOXHXrnyv9Syjovgc+UV" crossorigin="anonymous">
+  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css" integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
+  <link href="https://theninthone.github.io/kmmid/deep-thought.css" rel="stylesheet" />
+  
+  
+
+  <title>
+    
+MedijskaPredilnica | Primerjava migracij v Slovenijo in iz Slovenije v tujino
+
+  </title>
+
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=&lt;your_gtag&gt;"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "&lt;your_gtag&gt;");
+  </script>
+  
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js" integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+  
+  
+</head>
+
+<body class="has-background-white">
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+         
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;">
+          <img src="&#x2F;images&#x2F;avatar2.svg" style="max-height: 2rem !important;" />
+          <p >MedijskaPredilnica</p>
+        </a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;">
+            Domov
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;seminarji">
+            Seminarji
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;novice">
+            Novice
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;tags">
+            Etikete
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;categories">
+            Kategorije
+          </a>
+          
+          
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
+        <article class="box">
+          <h1 class="title">
+            Primerjava migracij v Slovenijo in iz Slovenije v tujino
+          </h1>
+          <p class="subtitle">Slovenija med priseljevanjem, izseljevanjem in dnevnimi migracijami</p>
+          <div class="columns is-multiline is-gapless">
+            <div class="column is-8">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="fas fa-user"></i>
+  </span>
+  <span>Avtor: Laura Drašček, Anja Nedeljković  </span>
+  <span class="icon">
+    <i class="far fa-calendar-alt"></i>
+  </span>
+  <span><time datetime="2026-01-15">Objavljeno: January 15, 2026</time></span>
+</span>
+
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="far fa-clock"></i>
+  </span>
+  <span>16 min</span>
+  <span class="icon">
+    <i class="far fa-map"></i>
+  </span>
+  <span>Maribor</span>
+</span>
+
+            </div>
+            <div class="column">
+              
+              
+<p>
+  Categories:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/categories/migracije/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>Migracije</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+            <div class="column has-text-right-desktop">
+              
+              
+<p>
+  Tags:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/migracije/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>Migracije</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/manjsine/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>manjšine</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/tujina/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>tujina</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/delo/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>delo</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/solanje/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>šolanje</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+          </div>
+          <div class="content mt-2">
+            <p><img src="/images/3-slika1.PNG" alt="Migracije odražajo iskanje boljših življenjskih, delovnih ali študijskih pogojev, vir: Pexels" />
+<em>Migracije odražajo iskanje boljših življenjskih, delovnih ali študijskih pogojev, vir: Pexels</em></p>
+<p>Migracija je gibanje ljudi iz enega mesta na drugo. Ljudje se selijo se iz različnih razlogov, kot so iskanje boljših življenjskih pogojev, zaposlitev, izobraževanje, varnost ali zaradi vojn, naravnih nesreč in podnebnih sprememb. Ljudje so migrirali že v preteklosti, na primer v času vojn, ko so se z zahoda države selili proti vzhodu zaradi večje varnosti, ali pa so odhajali v Ameriko, Avstralijo in druge oddaljene dežele v iskanju boljšega življenja. Migracije so pomemben del človeške zgodovine in so prispevale k raznolikosti kultur in družb po svetu, hkrati pa prinašajo tudi izzive, kot so vključevanje priseljencev v novo okolje ter prilagajanje na novo kulturo in jezik. To lahko opazimo pri vključevanju migrantov v Sloveniji in pa življenju Slovencev po svetu. Ena izmed oblik sodobnih migracij so tudi dnevni migranti – državljani sosednjih držav (pri nas Italije, Avstrije, Madžarske in Hrvaške), ki vsak dan prihajajo na delo v Slovenijo, vendar tu nimajo prijavljenega prebivališča.</p>
+<h1 id="vecina-migrantov-v-slovenijo-prihaja-zaradi-zaposlitve">Večina migrantov v Slovenijo prihaja zaradi zaposlitve</h1>
+<p>V Slovenijo se večina migrantov še vedno priseljuje predvsem zaradi dela. Po podatkih Statističnega urada RS se je leta 2024 v državo priselilo 33.023 oseb, pri čemer je 58 % tujih državljanov kot glavni razlog navedlo zaposlitev, dodatnih 25 % družinske razloge in približno 8 % izobraževanje ali študij.</p>
+<p><img src="/images/3-animacija.gif" alt="Statistika" />
+<em>Statistika</em></p>
+<p>Med priseljenimi v delovno aktivni starosti (25–64 let) jih je bilo 75 % zaposlenih, kar kaže, da so migracije tesno povezane s potrebami slovenskega trga dela. Podobno sliko potrjuje OECD, ki za leto 2024 navaja, da je bila večina novih dovoljenj za bivanje izdana za zaposlitev ali sezonsko delo, pri čemer med priseljenci prevladujejo državljani Bosne in Hercegovine, Srbije in Ukrajine. Primerjava z letom 2022 kaže, da je več kot dve tretjini vseh novih priseljencev prišlo zaradi zaposlitve, kar pomeni, da se vzorec v zadnjih letih ne zmanjšuje, temveč ostaja stabilen. Ta razlog za selitev pa ni nov, odraža se tudi v osebni izkušnji študenta Relje, ki se je s starši pred 23 leti preselil v Slovenijo. Danes pravi, da se tukaj počuti doma, saj je v Sloveniji odraščal in prevzel lokalno kulturo za svojo.</p>
+<h2 id="solanje-v-sloveniji">Šolanje v Sloveniji</h2>
+<div class="video" style="padding-bottom: 30px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dFynZcii6s?si=IEUb-eIyubbUF9Jf" title="Kristijan, študent FERI iz Severne Makedonije, se je v Slovenijo preselil zaradi novih življenjskih izkušenj, največji izziv pa mu je bil jezik. (Lasten vir) " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="quote-block">
+  <img
+    class="quote-img"
+    src="/images/3-profil3.jpg"
+    alt="Nika Devetak, Zamejka v Italiji  in migrantka v Ljubljani, vir: osebni arhiv"
+  />
+  <blockquote class="quote-text">
+    Nika Devetak, Zamejka v Italiji  in migrantka v Ljubljani, vir: osebni arhiv
+    V zadnjih letih se v Sloveniji povečuje tudi priseljevanje zaradi izobraževanja, saj postaja država vse bolj privlačna destinacija za mednarodne študente. 
+  </blockquote>
+</div>
+<style>
+  .quote-block{
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .quote-img{
+    width: 220px;
+    height: auto;
+    flex: 0 0 auto;
+  }
+
+  /* Responsive: stack on small screens */
+  @media (max-width: 600px){
+    .quote-block{
+      flex-direction: column;
+    }
+    .quote-img{
+      width: 100%;
+      max-width: 320px;
+    }
+  }
+</style>
+<p>Dijakinja Nika, ki živi v okolici Gorice, se je za šolanje v Sloveniji odločila, ker je Ljubljana zelo blizu, več na spodnjem posnetku:</p>
+<div class="video">
+<audio controls>
+  <source src="/images/3-nika.mp3" type="audio/ogg">
+  <source src="/images/3-nika.mp3" type="audio/mpeg">
+Izjava studentkinje Nike
+</audio>
+</div>
+<p>Na začetku se je v Ljubljani kot migrantka počutila odtujeno, saj je zaradi svojega naglasa zvenela kot Italijanka, ko pa se je vrnila domov, je bila bolj Slovenka, ker se je v Ljubljani hitro »nalezla« bolj slovenskega naglasa. Razliko omenja tudi v ritmu življenja in hrani, a ji sicer šolanje in celotna izkušnja ostajata v zelo lepem spominu.</p>
+<p>Po podatkih Statističnega urada RS je bil v študijskem letu 2024/25 v terciarno izobraževanje vpisanih približno 82.388 študentov, pri čemer je delež tujih študentov znašal 14,5 % vseh študentov terciarnega izobraževanja. Ti so prihajali iz več kot 120 držav, zlasti iz Srbije, Severne Makedonije, Hrvaške in Bosne in Hercegovine. Število tujih študentov se je zvišalo za okoli 12,1–12,8 % glede na prejšnje leto, tako med študenti brez slovenskega državljanstva kot tudi med tistimi, ki so se v Slovenijo preselili iz tujine, kar kaže na vse večje zanimanje za študij v Sloveniji.</p>
+<div class="video">
+<audio controls>
+  <source src="/images/3-una.mp3" type="audio/ogg">
+  <source src="/images/3-una.mp3" type="audio/mpeg">
+Izjava studentkinje Une
+</audio>
+</div>
+<p>Una, študentka FERI iz Srbije, je v Slovenijo prišla zaradi boljših življenjskih pogojev, kakovosti študija in možnosti kasnejše zaposlitve. (Lasten vir)</p>
+<p>Nekateri tuji študenti v Sloveniji študij uporabljajo tudi kot pot za dostop do evropskega trga dela, kar v časopisu Večer opisujejo kot “prikrito obliko migracije”.</p>
+<h1 id="delo-ob-studiju-v-sloveniji">Delo ob študiju v Sloveniji</h1>
+<div class="quote-block">
+  <img
+    class="quote-img"
+    src="/images/3-profil2.jpg"
+    alt="Gabriel Braini, Zamejc v Italiji in dnevni migrant v Sloveniji, vir: osebni arhiv"
+  />
+  <blockquote class="quote-text">
+  Gabriel Braini, Zamejc v Italiji in dnevni migrant v Sloveniji, vir: osebni arhiv
+    Pri nas je med mladimi najbolj razširjeno delo preko študentske napotnice, ki pa ga ne poznajo drugod po svetu. Tudi v Italiji to ni mogoče, ampak preko posebne pogodbe, ki pa od državljanov Slovenije zahteva, da odprejo svoj s.p., če želijo delati ob študiju. To je po drugi strani imelo pozitiven vpliv na Gabriela, ki živi v okolici Gorice in je izredno študiral v Novi Gorici ter ob študiju delal istočasno preko pogodbe v Italiji in preko študentske napotnice v Sloveniji. Spodaj nam pove, kako je dobil delo v Sloveniji.
+  </blockquote>
+</div>
+<style>
+  .quote-block{
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .quote-img{
+    width: 220px;
+    height: auto;
+    flex: 0 0 auto;
+  }
+
+  /* Responsive: stack on small screens */
+  @media (max-width: 600px){
+    .quote-block{
+      flex-direction: column;
+    }
+    .quote-img{
+      width: 100%;
+      max-width: 320px;
+    }
+  }
+</style>
+<div class="video">
+<audio controls>
+  <source src="/images/3-gabriel.mp3" type="audio/ogg">
+  <source src="/images/3-gabriel.mp3" type="audio/mpeg">
+Izjava Gabrijela
+</audio>
+</div>
+<h1 id="izseljevanje-slovencev">Izseljevanje Slovencev</h1>
+<p>Izseljevanje Slovencev ima dolgo zgodovino. Že v 19. stoletju so se številni prebivalci slovenske etničnega prostora selili v avstro‑ogrskih deželah, v prekomorske države kot so ZDA in Kanada ter pozneje v države zahodne Evrope, pri čemer je med prvo svetovno vojno in po njej odšlo na stotisoče ljudi, ki so iskali boljše življenjske in gospodarske priložnosti. Prevladoval je ekonomski motiv, ki se je skozi čas ohranil tudi v 20. stoletju z organiziranimi migracijami v Nemčijo, Avstrijo, Francijo in druge države, kjer je v 1971 po popisu živelo več deset tisoč Slovencev zaradi dela.</p>
+<p>Danes se, kljub spremembam in sodobnim smernicam, Slovenija še vedno sooča z odlivom prebivalcev: vsako leto iz države odide več tisoč ljudi, pri čemer najnovejši podatki kažejo, da je leta 2024 iz Slovenije emigriralo 5.098 slovenskih državljanov, medtem ko se jih je 4.773 vrnilo, kar pomeni, da je neto migracija slovenskih državljanov negativna. Hkrati ima v tujini stalno prijavljeno približno 158.500 slovenskih državljanov (ter približno 5.500 z začasnim prebivališčem), največ v Nemčiji, Avstriji, na Hrvaškem, v Švici in tudi v Italiji, kar kaže, da je sodobno izseljevanje povezano z izobraževanjem, iskanjem delovnih priložnosti, družinskimi povezavami in življenjskimi okoliščinami zunaj meja matične države.</p>
+<p><img src="/images/3-slika2.PNG" alt="Leta 2024 se je iz Slovenije izselilo več kot 5.000 slovenskih državljanov, vir: Statistični urad Republike Slovenije" />
+<em>Leta 2024 se je iz Slovenije izselilo več kot 5.000 slovenskih državljanov, vir: Statistični urad Republike Slovenije</em></p>
+<p>Šolanje v tujini je za Slovence vse pogostejša izbira, saj ponuja priložnost za pridobivanje mednarodnih izkušenj, spoznavanje tujih jezikov ter drugačnih izobraževalnih sistemov. Mladi se za študij ali izmenjave odločajo predvsem zaradi širše ponudbe programov in možnosti za raziskovanje ter boljše zaposlitve po končanem šolanju. Takšne izkušnje prispevajo k osebnemu razvoju ter krepijo konkurenčnost na trgu dela. Kaj je o svoji izkušnji kot migrantka pred nekaj leti napisala Laura, si lahko preberete <a rel="noopener external" target="_blank" href="https://potep.edu.it/sl/my-first-semester-in-bozen/">na povezavi</a>.</p>
+<h1 id="dnevne-migracije-ob-slovensko-italijanski-meji">Dnevne migracije ob slovensko-italijanski meji</h1>
+<p>Vsako jutro mejo prečka veliko ljudi – dnevnih migrantov, ki se odpravljajo na delo, v šolo, na faks, v glasbeno šolo. To se dogaja tudi na meji med Slovenijo in Italijo, kjer se Slovenci šolajo v italijanskih ali zamejskih šolah in glasbenih šolah ter delajo v italijansko ali slovensko govorečem okolju v Italiji, prav tako se tudi številni Italijani in predvsem Zamejci, pripadniki tamkajšnje manjšine, v Slovenijo odpravljajo v šolo, na faks ali na delo.</p>
+<h2 id="slovenske-sole-v-italiji">Slovenske šole v Italiji</h2>
+<p>Po prepovedi javne rabe slovenščine v času fašizma je slovenska šola na Tržaškem in Goriškem po drugi svetovni vojni znova zaživela, njen razvoj pa so utrdili Londonski memorandum in Osimski sporazumi.</p>
+<p>Danes v Italiji delujeta dva učna modela. Na Tržaškem in Goriškem so vrtci in šole s slovenskim učnim jezikom, kjer je italijanščina učni predmet na ravni prvega jezika. V Špetru v Benečiji pa deluje dvojezični model, v katerem se slovenščina in italijanščina izmenjujeta pri pouku. Slovensko šolstvo v Italiji torej deluje na mejnih območjih in omogoča otrokom slovenskih družin dostop do izobraževanja v maternem jeziku. Prav tako v slovenskem jeziku delujejo glasbene šole, ki jih obiskujejo tudi otroci in mladi iz Slovenije.</p>
+<p><em>Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten</em></p>
+<div class="img-row">
+  <img src="/images/3-g1s1.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
+  <img src="/images/3-g1s2.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
+  <img src="/images/3-g1s3.jpeg" alt="Razpored pustnega nastopa Glasbene matice v Gorici, kjer so nastopali otroci z obeh strani meje, izvirni dokument, vir: lasten">
+</div>
+<style>
+  .img-row {
+    display: flex;
+    gap: 12px;              /* space between images */
+    padding: 10px 0 20px 0;
+  }
+  .img-row img {
+    width: 33.333%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+  }
+</style>
+<p>Slovensko šolsko mrežo sestavljajo večstopenjske šole in višje srednje šole v Trstu in Gorici. Letno jih obiskuje približno 4300 otrok, učencev in dijakov, med katerimi je slovenščina za mnoge drugi ali tuji jezik. Vpisujejo pa se tudi Slovenci. Slovenske šole tako niso namenjene le slovenski manjšini, temveč vsem, ki želijo odraščati v dvojezičnem in večkulturnem okolju.</p>
+<p><img src="/images/3-slika3.PNG" alt="Infografika (lastna): Prikaz slovenskih srednjih šol v Italiji. " />
+<em>Infografika (lastna): Prikaz slovenskih srednjih šol v Italiji.</em></p>
+<div class="quote-block">
+  <img
+    class="quote-img"
+    src="/images/3-profil1.PNG"
+    alt="Neža Šuligoj, dnevna migrantka iz Slovenije, dijakinja na DIZ Cankar – Vega – Zois, smer Uprava, finance, marketing, vir fotografije: osebni arhiv"
+  />
+  <blockquote class="quote-text">
+  Neža Šuligoj, dnevna migrantka iz Slovenije, dijakinja na DIZ Cankar – Vega – Zois, smer Uprava, finance, marketing, vir fotografije: osebni arhiv.
+    “Za šolanje v Italiji sem se odločila, ker v Sloveniji ni srednjih šol s takšnim programom in načinom dela.
+    Ta odločitev mi je prinesla novo in zelo dragoceno izkušnjo, veliko novih spoznanj ter širši pogled na
+    izobraževanje in življenje na splošno. Pomembno se mi zdi tudi to, da sem skozi šolanje bolje spoznala
+    zamejce in njihovo kulturo. Poseben vtis je name naredil pouk ob sobotah, česar v Sloveniji ne poznamo.
+    Poleg tega me je navdušila njihova sproščenost, umirjenost in način dela, kjer je bilo manj stresa in pritiska,
+    kot sem ga bila vajena v Sloveniji. Vse to mi je dalo drugačen pogled na šolanje ter mi pomagalo pri osebni rasti.”
+  </blockquote>
+</div>
+<style>
+  .quote-block{
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .quote-img{
+    width: 220px;
+    height: auto;
+    flex: 0 0 auto;
+  }
+
+  /* Responsive: stack on small screens */
+  @media (max-width: 600px){
+    .quote-block{
+      flex-direction: column;
+    }
+    .quote-img{
+      width: 100%;
+      max-width: 320px;
+    }
+  }
+</style>
+<p>Poleg tega pobude, kot je <a rel="noopener external" target="_blank" href="https://futurium.ec.europa.eu/en/border-focal-point-network/news/interreg-italy-slovenia-and-commission-are-launching-students4cooperation-interreg-high-school?">Interreg Students4Cooperation</a>, spodbujajo srednješolce iz obmejnih regij k čezmejnemu sodelovanju in mobilnosti, kar povečuje možnosti izobraževanja in povezovanja med Slovenijo in Italijo. Program <a rel="noopener external" target="_blank" href="https://www.visahq.com/news/2025-11-08/it/gorizia-nova-gorica-cross-border-capital-of-culture-unveils-borderless-mobility-programme/">“borderless mobility”</a> med Novo Gorico in Gorico prav tako olajša vsakodnevno prečkanje meje za študente, saj omogoča lažji dostop do šol in fakultet na drugi strani meje.</p>
+<h2 id="prednosti-solanja-v-zamejstvu">Prednosti šolanja v Zamejstvu</h2>
+<p>Za prebivalce Slovenije ima šolanje v Italiji številne prednosti, predvsem na maturi. V Italiji je namreč za vpis na izbrano fakulteto potrebno opraviti sprejemni izpit in na to učni uspeh nima vpliva. To pomeni, da se lahko z maturo, pridobljeno na liceju ali na tehnični šoli vpišeš na katerokoli fakulteto v Italiji, v Sloveniji pa to pomeni, da vsaka v Italiji pridobljena matura velja kot splošna matura. Tudi ocene segajo že v srednji šoli do 10, pri pretvorbi pa to pomeni, da se kot slovensko oceno 5 lahko prizna z 9 in 10.</p>
+<h2 id="cezmejne-zaposlitvene-moznosti">Čezmejne zaposlitvene možnosti</h2>
+<p>Slovence k delu v Italiji pogosto privlačijo čezmejne možnosti zaposlitve in bližina, saj številni dnevno prečkajo mejo za delo v regijah, kjer se še vedno ohranja tesna gospodarska povezanost. Po neuradnih ocenah naj bi v Italiji v različnih oblikah, tudi na črno, delalo okoli 9.000 Slovencev, večina pa vsak dan prečka mejo. Zaradi podaljšanih notranjih mejnih kontrol do junija 2026 se dnevni migranti občasno soočajo z naključnimi pregledi, kar lahko povzroča krajše zamude in zahteva dokumentacijo delodajalca.</p>
+<p>Razlike ali ovire se lahko pokažejo na primer v praznikih, kar pomeni, da bo moral Slovenec za nekatere praznike delati, za druge pa bo doma, kot je prikazano v tabeli.</p>
+<p><img src="/images/3-slika5.PNG" alt="Pregled dela prostih dni v Italiji in Sloveniji v letu 2026, vir: lasten, povzeto po koledarjih" />
+<em>Pregled dela prostih dni v Italiji in Sloveniji v letu 2026, vir: lasten, povzeto po koledarjih</em></p>
+<h2 id="posebno-obdobje-v-casu-zaprtja-zaradi-koronavirusa">Posebno obdobje v času zaprtja zaradi koronavirusa</h2>
+<p><em>Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten</em></p>
+<div class="img-row">
+  <img src="/images/3-g2s1.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
+  <img src="/images/3-g2s2.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
+  <img src="/images/3-g2s3.jpg" alt="Ograja na mejnem prehodu Šempeter pri Gorici v času koronavirusa, vir fotografij: lasten">
+</div>
+<style>
+  .img-row {
+    display: flex;
+    gap: 12px;              /* space between images */
+    padding: 10px 0 20px 0;
+  }
+  .img-row img {
+    width: 33.333%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+  }
+</style>
+<p>Težave v obdobju pandemije je omenil že Kristijan. Omejeno gibanje čez mejo je preglavice povzročilo tudi dnevnim migrantom, saj so na mejnih prehodih bile postavljene ograje. Veliko se jih je zavedalo, kako pomembni so medosebni odnosi in kako težko je, ko jih prekine meja. Tudi društva so skupila skupaj in na daljavo poskusila ohraniti stike. Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti si lahko ogledate na spodnjem videu.</p>
+<div class="video">
+  <video controls="" title=" Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti" width="100%" poster="/images/1-video.mp4">
+    <source src="/images/3-laura.mp4" type="video/mp4">
+  </video>
+</div>
+<p>Migracije in dnevne migracije bodo v prihodnosti igrale še pomembnejšo vlogo pri povezovanju držav, gospodarstev in trgov dela. Zaradi globalizacije, demografskih sprememb in tehnološkega razvoja bo mobilnost prebivalstva vse večja, čezmejno delo pa bo postajalo vsakdanji del življenja za številne ljudi zaradi iskanja boljših možnosti. Dnevni migranti bodo s svojim znanjem in delom prispevali k razvoju regij na obeh straneh meje ter krepili sodelovanje in mednarodno povezanost, s tem pa tudi ohranjali kulturo manjšin.</p>
+<p><img src="/images/3-slika4.PNG" alt="Grafika kljucnih besed migracij; lasten vir " />
+<em>Grafika kljucnih besed migracij; lasten vir</em></p>
+<h1 id="viri">Viri</h1>
+<ul>
+<li>Intervjui z osebami: Gabriel Braini, Kristijan Bunevski, Nika Devetak, Una Savić, Relja Stanišić, Neža Šuligoj</li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/News/Index/12751">Brnot. N. (2023). <em> Delovne migracije, 2023: Večina delovno aktivnih oseb odhajala na delo v drugo občino.</em> - Statistični urad Republike Slovenije</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/en/news/Index/13522">Brnot. N. (2024). <em> Delovne migracije, 2024: Večina delovno aktivnih oseb odhajala na delo v drugo občino.</em> - Statistični urad Republike Slovenije</a></li>
+<li><a rel="noopener external" target="_blank" href="https://vecer.com/maribor/aktualno/prikrita-oblika-migracije-vedno-vec-studentov-iz-tretjih-drzav-na-slovenskih-fakultetah-10380483">Cehnar, J. (2025).<em> Prikrita oblika migracije: vedno več študentov iz tretjih držav na slovenskih fakultetah.</em> - Vecer</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.delo.si/novice/svet/slovensko-solstvo-v-italiji-je-na-prepihu">Čepar, N. (2024). <em> Slovensko šolstvo v Italiji je na prepihu. </em> - Delo.si</a></li>
+<li><a rel="noopener external" target="_blank" href="https://futurium.ec.europa.eu/en/border-focal-point-network/news/interreg-italy-slovenia-and-commission-are-launching-students4cooperation-interreg-high-school">European Commission. (2025).<em> nterreg Italy-Slovenia and the Commission are launching STUDENTS4COOPERATION – Interreg high school.</em> - Futurium</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.europarl.europa.eu/topics/sl/article/20200624STO81906/raziskovanje-vzrokov-za-migracije-zakaj-ljudje-migrirajo">Evropski parlament. (2020).<em> Raziskovanje vzrokov za migracije: Zakaj ljudje migrirajo?</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.zrss.si/arhiv_clankov/izseljevanje-slovencev-od-devetnajstega-stoletja-do-osamosvojitve-slovenije/">Lukšič Hacin, M. (2016).<em> Izseljevanje Slovencev od devetnajstega stoletja do osamosvojitve Slovenije.</em> - ZRSS</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.oecd.org/en/publications/2024/11/international-migration-outlook-2024_c6f3e803/full-report/slovenia_cdba316d.html">OECD (2024). <em> International migration outlook 2024: Slovenia.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.oecd.org/en/publications/international-migration-outlook-2025_ae26c893-en/full-report/slovenia_bcfae8b7.html">OECD (2025). <em> International migration outlook 2025: Slovenia.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/news/Index/12871">Pečan, P. (2024). <em> Vpis študentov v višješolsko in visokošolsko izobraževanje, študijsko leto 2023/2024: V terciarno izobraževanje vpisanih več študentov kot leto prej. </em> - Statistični urad Republike Slovenije</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/News/Index/13606">Pečan, P. (2025). <em> Vpis študentov v višješolsko in visokošolsko izobraževanje, študijsko leto 2024/2025: V terciarno izobraževanje vpisanih več študentov kot leto prej.</em> - Statistični urad Republike Slovenije</a></li>
+<li><a rel="noopener external" target="_blank" href="https://primorske.svet24.si/slovenija/v-tujini-je-vec-deset-tisoc-slovencev-delodajalci">Primorske novice. (2025). <em> V tujini je več deset tisoč Slovencev, delodajalci bi jih privabili z razvojno kapico.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/News/Index/13690">Razpotnik, B. (2024). <em> Selitveno gibanje v 2024 podobno kot v letu prej.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.stat.si/StatWeb/news/Index/14014">Razpotnik, B. (2025).<em> Socioekonomske značilnosti meddržavnih selivcev, 2024: Lani pozitiven selitveni prirast terciarno izobraženih. </em> - Statistični urad Republike Slovenije</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.zurnal24.si/slovenija/vsako-leto-se-izseli-5-000-slovencev-v-tujini-jih-je-ze-160-000-439225#google_vignette">STA, D. J. (2021). <em> V tujini dela več kot 30.000 Slovencev.</em> - Žurnal 24.</a></li>
+<li><a rel="noopener external" target="_blank" href="https://usrfvg.gov.it/sl/home/menu/uffici/ufficio-scuole-slovene/scuole/">USRFVG SLO. (b. d.). <em> Seznam večstopenjskih šol s slovenskim učnim jezikom.</em> - Ministrstvo za izobraževanje.</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.visahq.com/news/2025-11-08/it/gorizia-nova-gorica-cross-border-capital-of-culture-unveils-borderless-mobility-programme/">VisaHQ. (2025a). <em> Gorizia-Nova Gorica, cross-border capital of culture, unveils borderless mobility programme.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.visahq.com/news/2025-11-30/it/eu-list-confirms-italys-land-border-checks-with-slovenia-extended-through-mid-2026/">VisaHQ. (2025b). <em> EU list confirms Italy’s land border checks with Slovenia extended through mid-2026.</em></a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.zrss.si/mednarodno-sodelovanje/slovenci-izven-meja/zamejsko-solstvo/">ZRSS. (b. d.). <em>  Zamejsko šolstvo. </em> - Statistični urad Republike Slovenije</a></li>
+</ul>
+
+          </div>
+        </article>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Search</p>
+      </header>
+      <section class="modal-card-body">
+        <div class="field mb-2">
+          <div class="control">
+            <input class="input" id="search" placeholder="Search this website." type="search" />
+          </div>
+        </div>
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+      </section>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <nav class="level">
+              
+          <div class="level-item has-text-centered">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;seminarji&#x2F;seminarji-10&#x2F;">
+              <span class="icon mr-2">
+                <i class="fas fa-arrow-circle-left"></i>
+              </span>
+              (Ne)zaupanje v javnem zdravstvu - Zakaj Slovenci zaupamo zdravnikom, ne pa zdravstvu?
+            </a>
+          </div>
+           
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  
+
+
+
+  
+  <footer class="footer py-4">
+    <div class="content has-text-centered">
+      <p>
+        Built with
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-code"></i>
+          </span>
+          <span>code</span>
+        </span>
+        and
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-heart"></i>
+          </span>
+          <span>love</span>
+        </span>
+      </p>
+      <p>
+        Powered by
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-power-off"></i>
+          </span>
+          <span>zola</span>
+        </span>
+      </p>
+    </div>
+  </footer>
+  
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js" integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js" integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js" integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js" integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js" integrity="sha384-Pulw7+h73841BQIK0LzJCydKRPChJUF9w8h8W0o3h+cLtoyNPJS847bQauLWOTwg" crossorigin="anonymous"></script>
+  
+  <script src="https://theninthone.github.io/kmmid/elasticlunr.min.js"></script>
+  <script src="https://theninthone.github.io/kmmid/search_index.en.js"></script><script src="https://theninthone.github.io/kmmid/js/site.js"></script>
+
+  
+
+
+
+
+
+  
+  
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://theninthone.github.io/kmmid//sitemap.xml

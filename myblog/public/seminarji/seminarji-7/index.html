@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+
+  
+  <link href='&#x2F;icons&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;icons&#x2F;safari-pinned-tab.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css" integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
+  
+
+  
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" integrity="sha384-oGm59HWAkwO32h2w8u0B98wKBZJwd6MbWtAJwQKCTffZjOXHXrnyv9Syjovgc+UV" crossorigin="anonymous">
+  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css" integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css" integrity="sha256-AbA177XfpSnFEvgpYu1jMygiLabzPCJCRIBtR5jGc0k=" crossorigin="anonymous">
+  <link href="https://theninthone.github.io/kmmid/deep-thought.css" rel="stylesheet" />
+  
+  
+
+  <title>
+    
+MedijskaPredilnica | SODOBNA KULTURA SKOZI FILM
+
+  </title>
+
+  
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=&lt;your_gtag&gt;"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "&lt;your_gtag&gt;");
+  </script>
+  
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js" integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+  
+  
+</head>
+
+<body class="has-background-white">
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+         
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;">
+          <img src="&#x2F;images&#x2F;avatar2.svg" style="max-height: 2rem !important;" />
+          <p >MedijskaPredilnica</p>
+        </a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;">
+            Domov
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;seminarji">
+            Seminarji
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;novice">
+            Novice
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;tags">
+            Etikete
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;&#x2F;categories">
+            Kategorije
+          </a>
+          
+          
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
+        <article class="box">
+          <h1 class="title">
+            SODOBNA KULTURA SKOZI FILM
+          </h1>
+          <p class="subtitle">V času, ko tehnologija preoblikuje vsakdanje navade, odnosi postajajo bolj posredovani prek zaslonov, negotovost pa vse pogosteje narekuje razpoloženje družbe, se vprašanje “kaj je sodobna kultura?” zdi bolj aktualno kot kdajkoli prej.</p>
+          <div class="columns is-multiline is-gapless">
+            <div class="column is-8">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="fas fa-user"></i>
+  </span>
+  <span>Avtor: Kristijan Bunevski, Alina Šturlak </span>
+  <span class="icon">
+    <i class="far fa-calendar-alt"></i>
+  </span>
+  <span><time datetime="2026-01-14">Objavljeno: January 14, 2026</time></span>
+</span>
+
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="far fa-clock"></i>
+  </span>
+  <span>14 min</span>
+  <span class="icon">
+    <i class="far fa-map"></i>
+  </span>
+  <span>Maribor</span>
+</span>
+
+            </div>
+            <div class="column">
+              
+              
+<p>
+  Categories:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/categories/kultura/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>Kultura</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/categories/umetnost/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>Umetnost</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+            <div class="column has-text-right-desktop">
+              
+              
+<p>
+  Tags:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/sodobna-kultura/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>Sodobna kultura</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/film/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>Film</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/medijska-kultura/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>Medijska kultura</span>
+    </span>
+  </a>
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://theninthone.github.io/kmmid/tags/filmska-analiza/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>Filmska Analiza</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+          </div>
+          <div class="content mt-2">
+            <h1 id="kaj-je-sodobna-kultura">KAJ JE SODOBNA KULTURA?</h1>
+<p>Sodobno kulturo sestavljajo vrednote, ki jih ima določena družba, in način, kako jih ljudje
+prakticirajo v vsakdanjem življenju. Prav tako vključuje strahove posameznikov – česa so
+ljudje zaskrbljeni in kako te strahove oblikuje svet, v katerem živijo. Sodobna kultura ni le
+»vrednote družbe«, ampak tudi način, kako se te dejansko živijo vsak dan: v navadah,
+odločitvah, komunikaciji in celo v tem, česa se ljudje bojijo. Vključuje osebne stvari, kot je
+identiteta: kako oseba vidi sebe in kako želi biti v očeh drugih.</p>
+<p>Kultura je močno pod vplivom zunanjih sil. Tehnologija spreminja vsakdanje življenje:
+poenostavi življenje, hkrati pa ustvarja nove želje, pričakovanja in odvisnost od digitalnega
+okolja. Tudi odnosi se spreminjajo: tempo življenja je hitrejši, komunikacija je pogosteje na
+spletu, ideje o intimnosti in povezavi pa se spreminjajo. Družbene norme postavljajo okvir
+za »normalno«, politika vpliva na družbene konflikte in vrednote, mediji pa vse to
+združujejo v en sam tok pomenov, ki oblikujejo, kako razumemo resničnost (Jenner, 2025).
+Ta pogled temelji na kulturološkem pristopu: kultura je videna kot dinamičen sistem praks
+in pomenov, tesno povezan z institucijami in mediji. Pomembna so vprašanja, kdo določa
+"svetovni nazor" ter kako se identiteta in moč manifestirata skozi to (Milner &amp; Browitt,
+2003).</p>
+<p>Film prikazuje sodobno kulturo skozi več glavnih tem - identiteta in osamljenost,
+tehnologija in digitalna zasvojenost, potrošništvo in kapitalizem, krize in družbene tesnobe,
+spremembe v pripovedi zgodb ter povezava med globalnim in lokalnim filmom.</p>
+<h1 id="kultura-skozi-film">KULTURA SKOZI FILM</h1>
+<p>Film je takšni medij, ki dobro pokaže, kako se kultura spreminja. Ta infografika primerja
+vizualni jezik devetdesetih let in danes: barvo, svetlobo, ritem montaže in "vibracije" likov.
+Tarantinov primer pokaže, kako se obdobje premika od ostrih kontrastov in nervozne
+energije do tople nostalgije in bolj premišljenega tempa.</p>
+<p><img src="/images/7-slika.PNG" alt="Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji." />
+<em>Primerjalni kolaž dveh filmov: devetdeseta in sedanjost. Sestavili avtorji.</em></p>
+<p>Film je hkrati umetnost, industrija in množični medij. Zato je dober pokazatelj kulturnih
+sprememb: odraža družbene norme, pojme »normalnega«, individualna pričakovanja in
+strahove tistega časa. Film ne odraža le družbe, temveč vpliva tudi na to, kako gledalci
+razumejo identiteto, odnose in prihodnost.</p>
+<p>Pomembna značilnost sodobne kulture so stalne spremembe. Življenje se hitro spreminja,
+trendi prihajajo in odhajajo, od ljudi pa se pričakuje, da se bodo nenehno prilagajali. To
+ustvarja občutek negotovosti, pritiska in nestabilnosti, kar močno vpliva na to, kako ljudje
+sprejemajo odločitve in razumejo svoj položaj v družbi. To je zelo živo prikazano v filmih
+(Jenner, 2025). Obstaja velika razlika med filmi iz 90. let in sodobnimi. Ne le zaradi
+napredka tehnologije, ampak tudi zato, ker se je življenje dramatično spremenilo. Takrat so
+bili trendi drugačni, filmi so kazali drugačen smisel za humor, drugačen način izražanja
+čustev in tako naprej.</p>
+<p><img src="/images/7-slika2.PNG" alt="Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji." />
+<em>Tehnološki in distribucijski premiki, ki vplivajo na estetiko filma (1990—danes). Sestavili avtorji.</em></p>
+<p>Knjiga <em>“Film, forma in kultura”</em> avtorjev Kolkerja in Gordona (2024) nas poziva, naj film
+jemljemo zelo resno, tako kot literaturo ali glasbo. Avtorji pojasnjujeta, kako deluje filmska
+umetnost in zakaj je film del vsakdanjega življenja: rodi se v družbi in neizogibno nosi sled
+njenih norm, konfliktov, tesnob in idealov. Zato film ni le reklama ali "čudovito posnet",
+temveč tudi način kulturne izmenjave, oblika upora in platforma za glasove, ki pogosto
+ostajajo na obrobju (Siraj Al-Maliki, 2025).</p>
+<p>Hkrati pa film ostaja množični medij: zlahka presega meje občinstva in kultur, širi podobe
+in zgodbe ter vpliva na to, kako ljudje razumejo resničnost in sebe</p>
+<h1 id="kako-sodobni-filmi-prikazujejo-identiteto-spol-telesna-podoba-etnicnost-osamljenost">KAKO SODOBNI FILMI PRIKAZUJEJO IDENTITETO (SPOL, TELESNA PODOBA, ETNIČNOST, OSAMLJENOST)</h1>
+<p>V sodobnem filmu je identiteta prikazana kot proces: liki nastajajo pod pritiskom družbe,
+pričakovanj in lastnih negotovosti.</p>
+<p><img src="/images/7-slika3.PNG" alt="Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji." />
+<em>Predstavitve identitete v sodobnih filmih: spol, telesnost, etničnost in osamljenost. Sestavili avtorji.</em></p>
+<p>Milner in Browitt (2003) ponujata preprost, a uporaben pogled: film je treba brati kot
+kulturno besedilo, ki izhaja iz resničnega življenja in govori o njem. Zato sodobna filmska
+teorija ne gleda le na zaplet in »lepo sliko«, temveč tudi na to, kako film prikazuje
+identiteto, moč, ideologijo in reprezentacijo. Zato so pogoste teme, kot so spol, telesna
+podoba, etničnost in osamljenost. Liki v takih filmih niso več idealne "ikone", temveč
+resnični ljudje: kompleksni, ranljivi, z notranjimi konflikti in iskanjem svojega mesta (Milner
+in Broughitt, 2003).</p>
+<p>Filmi, kot je <em>Her (2013)</em>, kažejo, kako lahko čustvena izolacija obstaja tudi v
+hiperpovezanem svetu, kjer digitalna komunikacija nadomešča resnične človeške stike.
+<em>Lost in Translation (2003)</em> prav tako poudarja čustveno izolacijo in prikazuje, kako se ljudje
+lahko počutijo globoko osamljene, tudi ko so obkroženi z drugimi. S prikazovanjem teh
+težav sodobna kinematografija omogoča občinstvu, da se prepozna na platnu.</p>
+<p><img src="/images/7-slika4.PNG" alt="Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj" />
+<em>Kolaž - osamljenost in posredovana intimnost v urbanem prostoru: Lost in Translation (2003) in Her (2013). Sestavili avtorj</em></p>
+<h1 id="tehnologija-in-sodobno-zivljenje-druzbena-omrezja-umetna-inteligenca-nadzor-hitrost-izolacija">TEHNOLOGIJA IN SODOBNO ŽIVLJENJE (DRUŽBENA OMREŽJA, UMETNA INTELIGENCA, NADZOR, HITROST, IZOLACIJA)</h1>
+<p>Tehnologija je postala središče sodobnega življenja, film pa nenehno preizkuša njeno moč:
+kako spreminja komunikacijo, odnose in sam način »biti blizu.« Družbena omrežja, umetna
+inteligenca, nadzor, pospeševanje življenja in občutek osamljenosti se vse bolj pojavljajo v
+okvirju.</p>
+<p>Družbeni mediji in digitalna identiteta so raziskani v filmih, kot je <em>Social Network (2010)</em>, ki
+prikazuje, kako spletne platforme preoblikujejo odnose, ambicije in moč. Umetna
+inteligenca in čustvena odvisnost od tehnologije sta osrednji temi v že omenjenem filmu
+<em>Her (2013)</em>, kjer digitalni sistemi nadomeščajo človeško povezanost.</p>
+<p>Ključna dilema sodobne kinematografije je vprašanje, ali tehnologija ljudi dejansko zbližuje
+ali zgolj ustvarja videz intimnosti. Filmi pogosto ponujajo kritičen odgovor: kljub večji
+količini komunikacije se prava intimnost zmanjšuje (Straubhaar et al., 2025).</p>
+<p>Zato film ne deluje le kot zabava, temveč tudi kot način razprave o protislovjih tehnološke
+dobe, kjer priročnost in napredek hodita z roko v roki s stresom, osamljenostjo in izgubo
+stikov (Milner in Broughitt, 2003).</p>
+<p><img src="/images/7-slika5.PNG" alt="&quot;Izolacija v povezanem svetu&quot; (Her, 2013) Kader iz filma iz odprtih virov" />
+<em>"Izolacija v povezanem svetu" (Her, 2013) Kader iz filma iz odprtih virov</em></p>
+<p>Vendar tehnološki napredek ima močan vpliv tako na filmsko obliko kot na vsebino.
+Tehnologija najprej spremeni kako je film narejen, šele nato tudi o čem film govori. Nova
+orodja, kamere in programska oprema neposredno vplivajo na vizualni slog, ritem montaže
+in način pripovedovanja zgodbe. Film je postal bolj dinamičen in vizualno spektakularen.
+Oblika se pogosto prilagaja tudi platformam, kot so pretočne storitve in mobilni zasloni.</p>
+<p>Intervjuvali smo filmskega strokovnjaka, režiserja in producenta Roka Breznika, ki je
+spregovoril o tem, ali je tehnološki napredek bolj vplival na obliko ali vsebina firma, in na
+kakšen način.</p>
+<div class="video">
+<iframe width="560" height="315" title="Rok Breznik - Ali tehnološki napredek vpliva bolj na vsebino filma ali obliko filma?" src="https://www.youtube.com/embed/vZHgTaT1npQ?si=6YNa4_j9ghYjNgOy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<h1 id="potrosnistvo-in-kapitalizem">POTROŠNIŠTVO IN KAPITALIZEM</h1>
+<p>Potrošništvo in kapitalizem sta osrednji temi sodobne kulture. Filmi pogosto prikazujejo
+družbe, ki jih poganja potrošnja, uspeh in nenehna rast, kjer je osebna vrednost tesno
+povezana s produktivnostjo, statusom in bogastvom.</p>
+<p>Filmi, kot je <em>Fight Club (1999)</em>, kritizirajo potrošniško kulturo s prikazom, kako se identiteta
+opredeljuje skozi lastništvo in materialne dobrine. <em>The Wolf of Wall Street (2013)</em>
+predstavlja kapitalizem skozi presežek, ambicijo in moralno praznino ter razkriva posledice
+pohlepa. Ekonomska neenakost in razredna delitev sta raziskani v korejskem filmu
+<em>Parasite (2019)</em>, kjer se družbena mobilnost zdi omejena in globoko neenaka, kljub iluziji
+priložnosti.</p>
+<p>Ko smo že pri denarju in razredu, sodobni film hkrati spreminja način pripovedovanja
+zgodb. Namesto "pravilnih odgovorov" in popolnih koncev se vse pogosteje pojavljajo
+dvoumnost, nelagodje in odprti konci. To odraža realnost, v kateri se prihodnost zdi
+nestabilna in so spremembe stalne (Jenner, 2025).</p>
+<p>Ko se na zaslonu prikažejo materialni pritiski in razredne razlike, se pojavi širše ozadje:
+občutek krize in negotovosti sistema. Zato je logično, da se poglobimo v temo nasilja in
+razkroja kot kulturne izkušnje, ne le kot spektakel (Jenner, 2025).</p>
+<h1 id="nasilje-kriza-zlom">NASILJE, KRIZA, ZLOM</h1>
+<p>Nasilje, krize in občutek propada so že dolgo del dnevnega reda. Novice in družbena
+omrežja ljudi nenehno držijo v toku zgodb o vojnah, političnih konfliktih, podnebju in
+gospodarski nestabilnosti. Film tukaj deluje kot »ojačevalec pomena«: pomaga ne le
+spoznati krizo, ampak jo začutiti in razumeti, kaj počne ljudem in družbi.</p>
+<p>V mnogih sodobnih filmih katastrofa ali nasilje nista privlačnost, temveč način, kako
+prikazati posledice. Na primer, <em>Don't Look Up (2021)</em> satirično preučuje, kako politična
+neaktivnost in družbena motnja vodita v katastrofo. Komet v filmu je prozorna metafora za
+podnebno krizo: opozorila znanstvenikov so glasna, a jih ignorirajo, ker so "neprijetna" in
+"ob napačnem času" (Straubhaar et al., 2025).</p>
+<p><em>Joker (2019)</em> prikazuje drugačno vrsto krize: družbeno zanemarjenost, neenakost in
+razpad družbenih vezi, ki ljudi potiskajo v osebno in kolektivno degradacijo. Skozi takšne
+zgodbe sodobni film ujame tesnobe tistega časa in gledalcu znova pokaže, kako krhko je
+lahko ravnovesje v družbi.</p>
+<h1 id="sprememba-pripovedi-antijunaki-odprti-konce-realizem">SPREMEMBA PRIPOVEDI (ANTIJUNAKI, ODPRTI KONCE, REALIZEM)</h1>
+<p>Sodobni film vse bolj govori ne le o dogodkih, ampak tudi o občutkih in družbenih razlogih,
+ki stojijo za njimi. Zato se je pripoved opazno spremenila v primerjavi s klasičnim filmom.
+Režiserji so bolj svobodni pri uporabi perspektive in realizma za ustvarjanje pomena,
+namesto da bi zgolj "pripovedovali zgodbo."</p>
+<p>Namesto jasnih junakov in zlikovcev se mnogi sodobni filmi osredotočajo na antijunake –
+pomanjkljive, moralno dvoumne like, ki odražajo kompleksnost resničnih ljudi (Kolker in
+Gordon, 2024). Te like pogosto oblikujejo družbeni pritisk, travma ali osebni neuspeh.
+Pomen se ne razume več kot fiksen ali izključno nadzorovan s strani filmskega ustvarjalca
+(Milner in Browitt, 2003).</p>
+<p>Zato, so odprti konci v sodobnem filmu vse pogostejši. Namesto da bi filmi ponudili jasno
+rešitev, pogosto puščajo vprašanja neodgovorjena (Milner in Browitt, 2003). To odraža
+kulturni trenutek, zaznamovan z negotovostjo, kjer se preprosti sklepi zdijo nerealni. Filmi,
+kot sta <em>No Country For Old Men (2007)</em> in <em>Lost in Translation (2003)</em>, se končajo brez
+tradicionalnega zaključka, pri čemer poudarjajo razpoloženje in čustveno resnico pred
+narativno gotovostjo.</p>
+<p><img src="/images/7-slika6.PNG" alt="Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)" />
+<em>Razvoj junaka na platnu: od klasičnega junaka do anti-junaka (od moralne jasnosti do dvoumnosti in realizma)</em></p>
+<p>Realizem je postal tudi prevladujoč pristop k pripovedovanju zgodb. Mnogi sodobni filmi
+uporabljajo naturalistične dialoge, delo s kamero iz roke in minimalno glasbo, da ustvarijo
+občutek pristnosti. Skozi te premike v pripovedovanju zgodb sodobni film odraža moderno
+kulturo – kompleksno, negotovo in utemeljeno na življenjskih izkušnjah in ne na
+idealiziranih pripovedih.</p>
+<p>Zaradi tega sodobni film vse bolj natančno odraža sodobno kulturo: kompleksno,
+nestabilno in zgrajeno na vsakdanjem življenju, namesto na lepo zapakiranih, "pravilnih"
+zgodbah.</p>
+<h1 id="globalizacija-in-hollywood-proti-lokalnemu-filmu">GLOBALIZACIJA IN HOLLYWOOD PROTI LOKALNEMU FILMU</h1>
+<p>Globalizacija je močno spremenila filmsko kulturo, glavni razlog za to pa je očiten:
+prevlada Hollywooda (Milner &amp; Browitt, 2003). Hollywoodski filmi se hitro širijo po svetu in
+postavljajo "globalni standard" za to, kako je običajno zgrajena zgodba, kako slika izgleda
+in kaj gledalec pričakuje od filma. Veliki proračuni in znane formule pomagajo takim
+filmom, da zlahka prečkajo meje in delujejo za zelo različne občinstva.</p>
+<p>Režiser Rok Breznik je spregovoril o prevladi Hollywooda, ponavljajočih se temah v
+hollywoodskih filmih ter vzorcih, ki jih trenutno opaža v filmski industriji.</p>
+<div class="video">
+<iframe width="560" height="315" title="Rok Breznik - premik k 'dokumentarnemu' občutku: ročno snemanje, naravna svetloba, minimalna glasba" src="https://www.youtube.com/embed/g5jooJJ86G4?si=6lwT-RgWnN0Qlmnv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<p>A poleg tega je lokalni film, ki pogosto govori o vsakdanjem življenju, specifičnih družbenih
+problemih in izkušnjah, ki jih ni mogoče ločiti od jezika in konteksta določenega kraja.
+Takšni filmi običajno privabijo manjše občinstvo, vendar nudijo bolj natančen in "zemeljski"
+pogled na življenje (Eren &amp; Aktan, 2024).</p>
+<p>Posebna plast je transnacionalni film. Siraj Al-Maliki (2025) ga opisuje kot silo, ki povezuje
+kulture in spreminja znane globalne zgodovine. Transnacionalni filmi mešajo sloge in
+tradicije, ustvarjajo kulturno hibridnost in včasih nasprotujejo togemu okviru nacionalne
+identitete. Danes so pretočne platforme, kot sta Netflix in Amazon Prime, opazno povečale
+prepoznavnost takšnih filmov po vsem svetu.</p>
+<p><img src="/images/7-slika7.PNG" alt="Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji " />
+<em>Mehanizem transnacionalizacije preko pretočnih platform: naraščajoča vidnost, hibridnost in kulturna tveganja. Shemo so sestavili avtorji</em></p>
+<p>Hkrati pa transnacionalni film prinaša tudi tveganja: zaradi globalnega občinstva je
+mogoče kulture poenostaviti, neravnovesje vpliva ostaja, trgovina pa pritiska na vsebino
+(Siraj Al-Maliki, 2025). Kljub temu v najboljšem primeru deluje kot kulturni most: širi pogled
+na svet in odpira nove načine pripovedovanja zgodb.</p>
+<p><img src="/images/7-slika8.PNG" alt="Globalizacija filma v sodobnem času. Sestavili avtorji." />
+<em>Globalizacija filma v sodobnem času. Sestavili avtorji.</em></p>
+<p>Pomembno je tudi, da svetovna kinematografija ni omejena na Združene države: druge
+države ustvarjajo filme, ki tvorijo globalno agendo (Kolker &amp; Gordon, 2024). Izrazit primer
+je <em>Parasite (2019):</em> lokalna korejska zgodovina je postala svetovna, ne da bi izgubila svoje
+kulturne posebnosti. To dobro kaže, kako se meja med "globalnim" in "lokalnim" filmom
+danes briše in zakaj je na platnu več različnih glasov (Kolker &amp; Gordon, 2024).</p>
+<h1 id="kako-se-je-estetika-spremenila">KAKO SE JE ESTETIKA SPREMENILA</h1>
+<p>Estetika sodobnega filma se je močno spremenila skupaj s tehnologijo, navadami
+gledalcev in samo kulturo. Ena najbolj opaznih sprememb je hitrejše montaža: ustreza
+ritmu digitalne dobe in občutku "pospešenega" življenja.</p>
+<p>Druga pomembna funkcija je prenosna kamera. Ročno snemanje daje občutek prisotnosti:
+slika lahko "diha", postane opazovalna in bližje čustvom likov. V filmski seriji o Bournu ta
+tehnika deluje kot ojačevalec realizma in napetosti.</p>
+<p>Veliko filmov se prav tako premika k "dokumentarnemu" občutku: naravna svetloba,
+minimalna glasba, svobodnejši dialogi, včasih neprofesionalni igralci. Meja med fikcijo in
+resničnostjo postaja tanjša, kot v filmu <em>Nomadland (2020)</em>. Namesto izpiljenega spektakla
+se vse bolj izbira resnica in neposrednost, saj gledalec ceni zgodbe, ki zvenijo iskreno in
+prepoznavno.</p>
+<p>V nadaljevanju smo predstavili pogled filmskega strokovnjaka na to vprašanje:</p>
+<div class="video">
+<iframe width="560" height="315" title="Rok Breznik o prevladi Hollywooda, ponavljajočih se temah ter vzorcih, ki jih trenutno opaža" src="https://www.youtube.com/embed/dj3EmuocrFA?si=O1iDGSjG4JrQni13"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<p>Skupaj je sodobna kultura mešanica vrednot, strahov, tehnologije in družbenih norm. Film
+je eden najbolj natančnih načinov, kako te spremembe videti v praksi. Sodobni filmi manj
+pogosto ponujajo preproste odgovore in vse pogosteje postavljajo vprašanja o identiteti,
+povezanosti, moči in prihodnosti. Zato danes film ni le »odsev časa«, temveč tudi prostor,
+kjer družba preizkuša svoje ideje, dvome in meje.</p>
+<h1 id="viri">Viri</h1>
+<ul>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.3389/fcomm.2025.1614642"> <em>Kulturni mostovi v kinematografiji: Razvijajoči se pogledi na transnacionalni film. Meje v komunikaciji, 10, člen 1614642.</em> - Al-Maliki, M. S. S. (2025).</a></li>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.1177/21582440241296074"> <em> Onkraj velikega platna: Raziskovanje prihodnjega javnega življenja skozi sociološko filmsko analizo. SAGE Open, 14(4). </em> – Eren, İ., &amp; Aktan, E. Ö. A. (2024).  </a></li>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.1177/13548565251409847"> <em> Med slovnicami transnacionalizma in hiper-lokalizacije: strategije Netflixa in Amazona v transnacionalnem pretakanju. Convergence: Mednarodna revija za raziskave novih medijskih tehnologij. Predhodna spletna objava. </em> – Jenner, M. (2025).</a></li>
+<li><a rel="noopener external" target="_blank" href="https://www.taylorfrancis.com/books/mono/10.4324/9781003398875/film-form-culture-robert-kolker-marsha-gordon"> <em> Filmska oblika in kultura ( 5. izdaja). Routledge </em> – Kolker, R., &amp; Gordon, M. (2024).</a></li>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.54254/2753-7064/13/20230366"> <em>Vpliv filma na kulturo: Razmišljanja o filmski industriji, nasilnem vplivu in politizirani produkciji vsebin. Komunikacije v humanističnih raziskavah, 13(1), 288–293. </em> –  Lin, H. (2023). </a></li>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.4324/9780203964378"> <em> Kulturne študije in kulturna teorija. V sodobni kulturni teoriji (3. izdaja, str. 1–20). Routledge. </em> – Milner, A., &amp; Browitt, J. (2003).</a></li>
+<li><a rel="noopener external" target="_blank" href="https://doi.org/10.4324/9781003505525"> <em>Transnacionalna pretočna televizija: Preoblikovanje globalnih tokov in moči. Routledge.</em> – Straubhaar, J., Rai, S., Santillana, M., &amp; Dalben, S. (2025). </a></li>
+</ul>
+
+          </div>
+        </article>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Search</p>
+      </header>
+      <section class="modal-card-body">
+        <div class="field mb-2">
+          <div class="control">
+            <input class="input" id="search" placeholder="Search this website." type="search" />
+          </div>
+        </div>
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+      </section>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+
+<section class="section">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <nav class="level">
+              
+          <div class="level-item has-text-centered">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;seminarji&#x2F;seminarji-8&#x2F;">
+              <span class="icon mr-2">
+                <i class="fas fa-arrow-circle-left"></i>
+              </span>
+              ALI SONCE PLAČUJE RAČUNE?
+            </a>
+          </div>
+           
+          <div class="level-item has-text-centered">
+            <a class="button is-black is-outlined" href="https:&#x2F;&#x2F;theninthone.github.io&#x2F;kmmid&#x2F;seminarji&#x2F;seminarji-6&#x2F;">
+              Vpliv tehnologije in tehnološkega napredka na globalno segrevanje<span class="icon ml-2">
+                <i class="fas fa-arrow-circle-right"></i>
+              </span>
+            </a>
+          </div>
+          
+        </nav>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  
+
+
+
+  
+  <footer class="footer py-4">
+    <div class="content has-text-centered">
+      <p>
+        Built with
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-code"></i>
+          </span>
+          <span>code</span>
+        </span>
+        and
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-heart"></i>
+          </span>
+          <span>love</span>
+        </span>
+      </p>
+      <p>
+        Powered by
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-power-off"></i>
+          </span>
+          <span>zola</span>
+        </span>
+      </p>
+    </div>
+  </footer>
+  
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js" integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js" integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js" integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js" integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js" integrity="sha384-Pulw7+h73841BQIK0LzJCydKRPChJUF9w8h8W0o3h+cLtoyNPJS847bQauLWOTwg" crossorigin="anonymous"></script>
+  
+  <script src="https://theninthone.github.io/kmmid/elasticlunr.min.js"></script>
+  <script src="https://theninthone.github.io/kmmid/search_index.en.js"></script><script src="https://theninthone.github.io/kmmid/js/site.js"></script>
+
+  
+
+
+
+
+
+  
+  
+</body>
+
+</html>

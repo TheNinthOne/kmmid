@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>MedijskaPredilnica - Umetna Inteligenca</title>
+    <link rel="self" type="application/atom+xml" href="https://theninthone.github.io/kmmid/categories/umetna-inteligenca/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://theninthone.github.io/kmmid/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-14T00:00:00+00:00</updated>
+    <id>https://theninthone.github.io/kmmid/categories/umetna-inteligenca/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Vsaka objava je lahko laž: UI spreminja svet novic za vedno </title>
+        <published>2026-01-14T00:00:00+00:00</published>
+        <updated>2026-01-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://theninthone.github.io/kmmid/seminarji/seminarji-5/"/>
+        <id>https://theninthone.github.io/kmmid/seminarji/seminarji-5/</id>
+        
+        <content type="html" xml:base="https://theninthone.github.io/kmmid/seminarji/seminarji-5/">&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;5-slika.jpg&quot; alt=&quot;Če ljudje ne morejo več zanesljivo razlikovati med resničnimi informacijami in generiranimi vsebinami, to spodkopava njihovo vero v tradicionalne medije in novinarstvo. (Vir: The New York Times - Irene Rinaldi) &quot; &#x2F;&gt;
+&lt;em&gt;Če ljudje ne morejo več zanesljivo razlikovati med resničnimi informacijami in generiranimi vsebinami, to spodkopava njihovo vero v tradicionalne medije in novinarstvo. (Vir: The New York Times - Irene Rinaldi)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Zamislite si, da novica, ki celo vsebuje video dokazilo, ki jo vidite na Instagramu ali TikToku, ni resnična — vendar izgleda tako verodostojno, da je celo tvoji prijatelji delijo. Danes to ni več le hipotetičen scenarij, temveč realnost: umetna inteligenca (UI) je postala orodje, ki omogoča hitro in preprosto ustvarjanje napačnih ali zavajajočih vsebin, ki zmedejo tako  mlade kot starejše uporabnike interneta.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;mladi-pred-izzivom-umetno-generiranih-lazi&quot;&gt;Mladi pred izzivom umetno-generiranih laži&lt;&#x2F;h1&gt;
+&lt;p&gt;Namerno napačne ali zavajajoče informacije – lažne novice ali angl. fake news so narejene tako, da izgledajo kot legitimne novice. V tradicionalnem smislu so se širile skozi tabloide ali splet, a danes UI omogoča, da se takšne informacije množično in avtomatizirano ustvarjajo. Generativni modeli lahko “izmislijo” realistične slike, video posnetke ali celo intervjuje, ki se širijo hitreje kot preverjene novice.&lt;&#x2F;p&gt;
+&lt;p&gt;Po najnovejši študiji, o kateri poroča CNN, se vedno več ameriških najstnikov, starih od 13 do 18 let, spopada z UI-generiranim lažnim gradivom, pri čemer jih je približno ena tretjina priznala, da jih je taka vsebina že zavedla ali jih je celo prepričala, da delijo napačne informacije.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;kako-ui-ustvarja-lazne-novice&quot;&gt;Kako UI ustvarja lažne novice?&lt;&#x2F;h1&gt;
+&lt;p&gt;Umetna inteligenca uporablja velike jezikovne modele in generativne nevronske mreže, kar omogoča ustvarjanje novic, senzacionalističnih naslovov ali celo deepfake videoposnetkov, ki lahko uporabnike prepričajo, da se je nekaj zgodilo, čeprav se ni. To omogoča vsakomur — dobronamernemu ali ne, da ustvari vsebino, ki gotovo izgleda resnična.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;5-gif.gif&quot; alt=&quot;UI-ustvarjen (deepfake) posnetek Joeja Bidna z različnimi čustvenimi izrazi kot odziv na izjave Donalda Trumpa. Posnetek ni resničen in prikazuje, kako lahko umetna inteligenca ustvari prepričljive lažne vsebine. (Vir: University of Rochester) &quot; &#x2F;&gt;
+&lt;em&gt;UI-ustvarjen (deepfake) posnetek Joeja Bidna z različnimi čustvenimi izrazi kot odziv na izjave Donalda Trumpa. Posnetek ni resničen in prikazuje, kako lahko umetna inteligenca ustvari prepričljive lažne vsebine. (Vir: University of Rochester)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Primer iz Slovenije kaže, kako so prevaranti s pomočjo umetne inteligence ustvarili &lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.24ur.com&#x2F;video&#x2F;spletna-prevara_63518044.html&quot;&gt;lažen video&lt;&#x2F;a&gt;, ki ponazarja novinarski prispevek medijske hiše POP TV in promovira domnevni izdelek za izboljšanje sluha. Na predelanem videu se pojavljata novinar Žiga Bonča, igralec Bojan Emeršič in zeliščarka Vesna Majes Klančičar, ki v resnici niso sodelovali v nobenem takšnem prispevku. To je klasičen primer zlorabe tehnologije, ki izkorišča prepričljiv vizual in narativen slog, ustvarjen z UI.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;skrb-o-sirjenju-laznih-novic-izrazilo-kar-47-slovencev&quot;&gt;Skrb o širjenju lažnih novic izrazilo kar 47% Slovencev&lt;&#x2F;h1&gt;
+&lt;p&gt;Raziskave, opravljene ob svetovnem tednu medijske in informacijske pismenosti, kažejo, da je v Sloveniji skoraj polovica prebivalcev zaskrbljena zaradi vpliva umetne inteligence na ustvarjanje in širjenje lažnih novic. Kar 47 odstotkov Slovencev izraža skrb, da umetna inteligenca ustvarja in širi lažne informacije, pri čemer je nezaupanje večje kot v nekaterih sosednjih državah, kot sta Hrvaška in Srbija (v obeh primerih 40 odstotkov). Posebej izstopajo starejši prebivalci in višje izobraženi, kar kaže na to, da se del slovenske javnosti zaveda kompleksnosti in možnih posledic nekritične uporabe novih tehnologij.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;5-graf.png&quot; alt=&quot;Slovenija nad regionalnim povprečjem po zaskrbljenosti zaradi lažnih vsebin UI. (Podatki: 24ur)&quot; &#x2F;&gt;
+&lt;em&gt;Slovenija nad regionalnim povprečjem po zaskrbljenosti zaradi lažnih vsebin UI. (Podatki: 24ur)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;V Sloveniji postaja vse pomembnejše vlaganje v medijsko in informacijsko pismenost. Strokovnjaki za umetno inteligenco in medije, med njimi Marko Grobelnik in Sašo Dolenc, opozarjajo, da bodo morali imeti ključno vlogo tako izobraževalni sistem kot tudi verodostojni mediji, ki delujejo kot filter med resničnimi in zavajajočimi informacijami. Ob tem se Slovenija vključuje tudi v širše evropske pobude za regulacijo umetne inteligence, katerih cilj je večja transparentnost in zaščita javnosti pred zlorabami tehnologije.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;kaksna-je-odgovornost-sodobne-digitalne-druzbe&quot;&gt;Kakšna je odgovornost sodobne digitalne družbe?&lt;&#x2F;h1&gt;
+&lt;p&gt;Umetna inteligenca sama po sebi ni ne dobra ne slaba – njeni učinki so odvisni od načina uporabe. Prav zato postajajo medijska pismenost, kritično razmišljanje in preverjanje virov ključne veščine sodobne digitalne družbe. V času, ko laž lahko izgleda skoraj povsem resnična, ostaja odgovornost tako na ustvarjalcih tehnologije kot tudi na uporabnikih, da znamo prepoznati mejo med informacijami in manipulacijo.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;viri&quot;&gt;Viri&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;edition.cnn.com&#x2F;2025&#x2F;01&#x2F;30&#x2F;tech&#x2F;american-teens-ai-study&quot;&gt; &lt;em&gt; American teens are increasingly misled by fake content online, report shows &lt;&#x2F;em&gt; – CNN&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.24ur.com&#x2F;novice&#x2F;slovenija&#x2F;nova-zloraba-podobe-nase-medijske-hise-s-pomocjo-umetne-inteligence.html?utm_source=chatgpt.com&quot;&gt; &lt;em&gt; Nova zloraba podobe medijske hiše s pomočjo umetne inteligence &lt;&#x2F;em&gt; – 24ur  &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.kabi.info&#x2F;Novice&#x2F;izzivi-in-tveganja-pri-uporabi-umetne-inteligence&#x2F;?utm_source=chatgpt.com&quot;&gt; &lt;em&gt; Izzivi in tveganja pri uporabi umetne intelligence &lt;&#x2F;em&gt; – kABI.info&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.24ur.com&#x2F;novice&#x2F;znanost-in-tehnologija&#x2F;skoraj-polovica-slovencev-zaskrbljena-zaradi-umetne-inteligence.html&quot;&gt; &lt;em&gt; Skoraj polovica Slovencev zaskrbljena zaradi umetne inteligence &lt;&#x2F;em&gt; – 24ur&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;svet24.si&#x2F;novice&#x2F;gospodarstvo&#x2F;tehnologija&#x2F;slovenci-ne-zaupajo-umetni-inteligenci-lazne-informacije-1856861&quot;&gt; &lt;em&gt; Skoraj polovica Slovencev verjame, da nam umetna inteligenca laže &lt;&#x2F;em&gt; –  Svet24&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;goriskenovice.si&#x2F;slovenci-v-vecini-izrazili-zaskrbljenost-zaradi-umetne-inteligence&#x2F;&quot;&gt; &lt;em&gt; Slovenci v večini izrazili zaskrbljenost zaradi umetne inteligence &lt;&#x2F;em&gt; – Goriške Novice&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.rtvslo.si&#x2F;znanost-in-tehnologija&#x2F;umetna-inteligenca-od-zabave-do-zlorabe&#x2F;704734&quot;&gt; &lt;em&gt;Umetna inteligenca: od zabave do zlorabe &lt;&#x2F;em&gt; – RTV Slo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
