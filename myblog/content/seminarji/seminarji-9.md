@@ -39,11 +39,11 @@ Najnovejša sociološka raziskava, objavljena v reviji Frontiers in Psychology (
 
 Preverili smo koliko časa na telefonih preživijo študenti ene izmed Mariborskih fakultet
 
-{{ video(
-  src="images/9-video.mp4",
-  title="telefonih preživijo študenti ene izmed Mariborskih fakultet",
-  width="100%"
-) }}
+<div class="video">
+  <video controls="" title=" telefonih preživijo študenti ene izmed Mariborskih fakultet" width="100%" poster="images/1-video.mp4">
+    <source src="https://theninthone.github.io/kmmid/images/9-video.mp4" type="video/mp4">
+  </video>
+</div>
 
 # Digitalni detox: Prekinitev začaranega kroga
 

@@ -256,11 +256,11 @@ Razlike ali ovire se lahko pokažejo na primer v praznikih, kar pomeni, da bo mo
 
 Težave v obdobju pandemije je omenil že Kristijan. Omejeno gibanje čez mejo je preglavice povzročilo tudi dnevnim migrantom, saj so na mejnih prehodih bile postavljene ograje. Veliko se jih je zavedalo, kako pomembni so medosebni odnosi in kako težko je, ko jih prekine meja. Tudi društva so skupila skupaj in na daljavo poskusila ohraniti stike. Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti si lahko ogledate na spodnjem videu.  
 
-{{ video(
-  src="images/3-laura.mp4",
-  title="Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti",
-  width="100%"
-) }}
+<div class="video">
+  <video controls="" title=" Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti" width="100%">
+    <source src="https://theninthone.github.io/kmmid/images/3-laura.mp4" type="video/mp4">
+  </video>
+</div>
 
 
 Migracije in dnevne migracije bodo v prihodnosti igrale še pomembnejšo vlogo pri povezovanju držav, gospodarstev in trgov dela. Zaradi globalizacije, demografskih sprememb in tehnološkega razvoja bo mobilnost prebivalstva vse večja, čezmejno delo pa bo postajalo vsakdanji del življenja za številne ljudi zaradi iskanja boljših možnosti. Dnevni migranti bodo s svojim znanjem in delom prispevali k razvoju regij na obeh straneh meje ter krepili sodelovanje in mednarodno povezanost, s tem pa tudi ohranjali kulturo manjšin. 
