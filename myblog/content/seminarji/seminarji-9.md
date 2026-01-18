@@ -41,7 +41,6 @@ Preverili smo koliko časa na telefonih preživijo študenti ene izmed Mariborsk
 
 {{ video(
   src="images/9-video.mp4",
-  poster="images/9-video.mp4",
   title="telefonih preživijo študenti ene izmed Mariborskih fakultet",
   width="100%"
 ) }}

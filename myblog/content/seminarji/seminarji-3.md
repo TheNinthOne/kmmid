@@ -12,7 +12,7 @@ categories = ["Migracije"]
 tags = ["Migracije", "manjšine" , "tujina" , "delo", "šolanje"]
 +++
 
-![Migracije odražajo iskanje boljših življenjskih, delovnih ali študijskih pogojev, vir: Pexels](images/3-slika1.PNG)
+{{ img(path="images/3-slika1.PNG", alt="Migracije odražajo iskanje boljših življenjskih, delovnih ali študijskih pogojev, vir: Pexels") }}
 *Migracije odražajo iskanje boljših življenjskih, delovnih ali študijskih pogojev, vir: Pexels*
 
 Migracija je gibanje ljudi iz enega mesta na drugo. Ljudje se selijo se iz različnih razlogov, kot so iskanje boljših življenjskih pogojev, zaposlitev, izobraževanje, varnost ali zaradi vojn, naravnih nesreč in podnebnih sprememb. Ljudje so migrirali že v preteklosti, na primer v času vojn, ko so se z zahoda države selili proti vzhodu zaradi večje varnosti, ali pa so odhajali v Ameriko, Avstralijo in druge oddaljene dežele v iskanju boljšega življenja. Migracije so pomemben del človeške zgodovine in so prispevale k raznolikosti kultur in družb po svetu, hkrati pa prinašajo tudi izzive, kot so vključevanje priseljencev v novo okolje ter prilagajanje na novo kulturo in jezik. To lahko opazimo pri vključevanju migrantov v Sloveniji in pa življenju Slovencev po svetu. Ena izmed oblik sodobnih migracij so tudi dnevni migranti – državljani sosednjih držav (pri nas Italije, Avstrije, Madžarske in Hrvaške), ki vsak dan prihajajo na delo v Slovenijo, vendar tu nimajo prijavljenega prebivališča. 
@@ -258,7 +258,6 @@ Težave v obdobju pandemije je omenil že Kristijan. Omejeno gibanje čez mejo j
 
 {{ video(
   src="images/3-laura.mp4",
-  poster="images/3-laura-poster.jpg",
   title="Primer novoletnega voščila, ki so ga pripravili člani časnikarskega krožka društva MOSP in uredništva Rasti",
   width="100%"
 ) }}

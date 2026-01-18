@@ -44,7 +44,7 @@ Ključna razlika se pokaže tudi pri lokalni kupni moči, ki je v Mariboru kar z
 
 Kljub višji kakovosti bivanja v Sloveniji ostajajo določena področja, ki se soočajo z resnimi izzivi. Čeprav se zdravstveni kazalniki izboljšujejo, dostopnost do zdravstvenih storitev in dolgotrajna oskrba še vedno zahtevata korenite razvojne spremembe. Prebivalci poročajo o dolgih čakalnih dobah, neizpolnjenih potrebah in kroničnem pomanjkanju zdravstvenega kadra. 
 
-{{ img(path="images/11-slika3.jpeg", alt="Beg možganov v Moldaviji prizadene predvsem strokovnjake, ki iščejo boljše delovne pogoje v tujini (Vir: Pexels)") }}
+{{ img(path="images/11-slika3.jpg", alt="Beg možganov v Moldaviji prizadene predvsem strokovnjake, ki iščejo boljše delovne pogoje v tujini (Vir: Pexels)") }}
 *Beg možganov v Moldaviji prizadene predvsem strokovnjake, ki iščejo boljše delovne pogoje v tujini (Vir: Pexels)*
 
 Podobne, a pogosto še izrazitejše težave so prisotne tudi v Moldaviji, kjer dostop do zdravstvenih storitev ostaja omejen: <em>‘’Dostop do storitev je še ena večjih težav, saj se veliko ljudi izseljuje, posledično pa primanjkuje specialistov, zlasti zdravnikov. Zdravstvo je sicer organizirano tako v javnem kot v zasebnem sektorju, vendar kakovost storitev in dostop do usposobljenih strokovnjakov pogosto ostajata pod vprašajem.’’</em>
