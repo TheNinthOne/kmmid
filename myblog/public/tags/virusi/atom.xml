@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>MedijskaPredilnica - virusi</title>
+    <link rel="self" type="application/atom+xml" href="https://kmmid.si/tags/virusi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://kmmid.si"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-11T00:00:00+00:00</updated>
+    <id>https://kmmid.si/tags/virusi/atom.xml</id>
+    <entry xml:lang="en">
+        <title>KIBERNETSKA VARNOST POSAMEZNIKA: Kako prevzeti nadzor nad svojo spletno varnostjo</title>
+        <published>2026-01-11T00:00:00+00:00</published>
+        <updated>2026-01-11T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://kmmid.si/seminarji/seminarji-12/"/>
+        <id>https://kmmid.si/seminarji/seminarji-12/</id>
+        
+        <content type="html" xml:base="https://kmmid.si/seminarji/seminarji-12/">&lt;p&gt;Prisluhnite zvočni verziji:&lt;&#x2F;p&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;audio controls&gt;
+  &lt;source src=&quot;&#x2F;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;ogg&quot;&gt;
+  &lt;source src=&quot;&#x2F;images&#x2F;12-audio.mp3&quot; type=&quot;audio&#x2F;mpeg&quot;&gt;
+Audio posnetek clanka
+&lt;&#x2F;audio&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;12-slika1.jpg&quot; alt=&quot;Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)&quot; &#x2F;&gt;
+&lt;em&gt;Kako smo lahko dandanes čim bolj varni na spletu? (Vir: neit.edu)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;na-prvi-obrambni-crti-so-gesla&quot;&gt;Na prvi obrambni črti so gesla&lt;&#x2F;h1&gt;
+&lt;p&gt;Osnova vsake osebne zaščite so dostopni podatki. Strokovnjaki poudarjajo, da so kratka in ponavljajoča se gesla v času kvantnega računalništva postala povsem neuporabna. Danes je nujna uporaba &lt;strong&gt;upravljalnikov gesel&lt;&#x2F;strong&gt; in dosledna aktivacija &lt;strong&gt;večfaktorske avtentikacije (MFA, multi-factor authentication)&lt;&#x2F;strong&gt;. MFA doda kritično plast varnosti, saj napadalcu ne zadostuje le geslo, temveč potrebuje še fizični dostop do vaše naprave ali biometrični podatek. Po podatkih portala &lt;em&gt;Varni na internetu&lt;&#x2F;em&gt; (SI-CERT) lahko prav MFA prepreči do 99 % avtomatiziranih napadov na uporabniške račune.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Za lažjo predstavo smo pripravili tabelo, ki analizira, kako je lahko vaše geslo čim bolj varno.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;table border=&quot;1&quot; cellpadding=&quot;8&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;b&gt;Tip zaščite&lt;&#x2F;b&gt;&lt;&#x2F;th&gt;
+      &lt;th&gt;&lt;b&gt;Varnostna ocena&lt;&#x2F;b&gt;&lt;&#x2F;th&gt;
+      &lt;th&gt;&lt;b&gt;Naše priporočilo&lt;&#x2F;b&gt;&lt;&#x2F;th&gt;
+    &lt;&#x2F;tr&gt;
+  &lt;&#x2F;thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;b&gt;Le geslo&lt;&#x2F;b&gt; (upoštevanje minimuma, 8 znakov)&lt;&#x2F;td&gt;
+      &lt;td style=&quot;background-color: #F4CCCC;&quot;&gt;&lt;b&gt;nizka&lt;&#x2F;b&gt;&lt;&#x2F;td&gt;
+      &lt;td&gt;Takojšnja zamenjava gesla!&lt;&#x2F;td&gt;
+    &lt;&#x2F;tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;b&gt;Geslo in MFA&lt;&#x2F;b&gt; (prijavljanje z geslom ter s potrjevanjem preko SMS kode)&lt;&#x2F;td&gt;
+      &lt;td style=&quot;background-color: #FFF2CC;&quot;&gt;&lt;b&gt;srednja&lt;&#x2F;b&gt;&lt;&#x2F;td&gt;
+      &lt;td&gt;Bolje kot nič, a ranljivo v primer, da napadalci uporabljajo SIM-swap (tako vam lahko še vedno vdrejo v vaš telefon).&lt;&#x2F;td&gt;
+    &lt;&#x2F;tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;b&gt;MFA&lt;&#x2F;b&gt; (Odklepanje z geslom, katerega je generirala vaša aplikacija za gesla aplikacija ter potrjevanjem s ključem v isti aplikaciji)&lt;&#x2F;td&gt;
+      &lt;td style=&quot;background-color: #D9EAD3;&quot;&gt;&lt;b&gt;visoka&lt;&#x2F;b&gt;&lt;&#x2F;td&gt;
+      &lt;td&gt;Predlagamo vam uporabo tega!&lt;&#x2F;td&gt;
+    &lt;&#x2F;tr&gt;
+  &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+&lt;h1 id=&quot;sibki-clen-smo-lahko-mi&quot;&gt;Šibki člen smo lahko mi&lt;&#x2F;h1&gt;
+&lt;p&gt;Tehnologija je postala tako varna, da napadalci zdaj pogosteje uporabljajo drugačne taktike za vdor. Spletno ribarjenje oziroma angleško &lt;strong&gt;phishing&lt;&#x2F;strong&gt; je najpogostejši način kraje podatkov. Gre za metodo, s katero napadalci uporabnike zavedejo v krajo njihovih osebnih podatkov. Najpogosteje to storijo z lažnimi elektronskimi sporočili ali SMS-i. Uporabnika želijo pripraviti do tega, da sam klikne na zlonamerno povezavo ali vnese svoje občutljive podatke na lažno spletno stran. Danes phishing predstavlja veliko nevarnost, ker napadalci uporabljajo psihološke trike, ustvarjajo občutek nujnosti ali pa se izdajajo za uradne organe. Pomembno je biti previden pri vseh sporočilih, ne glede na to, kako uradno deluje komunikacijski kanal.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;varno-brskanje-po-spletu-na-tujih-lokacijah&quot;&gt;Varno brskanje po spletu na tujih lokacijah&lt;&#x2F;h1&gt;
+&lt;p&gt;Zadnji steber osebne varnosti je redna “tehnična higiena”. Zakaj temu rečemo prav higiena? Naprave s zastarelo programsko opremo so polne varnostnih lukenj, ki jih napadalci takoj izkoristijo. Redno posodabljanje operacijskih sistemov in aplikacij je nuja. Posebno pozornost je potrebno dati tudi javnim Wi-Fi omrežjem. Uporaba &lt;strong&gt;VPN&lt;&#x2F;strong&gt; (ang. virtual private network), ki izgleda navidezno kot zasebno omrežje, je obvezna za vsakogar, ki se povezuje na splet na letališčih ali v kavarnah, saj šifrira vaš promet in preprečuje &quot;prisluškovanje&quot; vašim podatkom.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;vloga-posameznika-pri-zasciti&quot;&gt;Vloga posameznika pri zaščiti&lt;&#x2F;h1&gt;
+&lt;p&gt;Strokovnjaki poudarjajo, da je osnovna zaščita v rokah posameznika. Močna in edinstvena gesla, dvostopenjska avtentikacija ter redno posodabljanje programske opreme bistveno zmanjšajo tveganje za napade. Nacionalni odzivni center za kibernetsko varnost SI-CERT opozarja, da velik delež incidentov nastane zaradi človeške nepazljivosti, ne tehničnih pomanjkljivosti. Poleg tehničnih ukrepov je ključna tudi digitalna pismenost. Razumevanje osnov delovanja interneta, prepoznavanje sumljivih vsebin in kritično vrednotenje informacij pomagajo posamezniku pri varnem ravnanju na spletu.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;12-slika2.PNG&quot; alt=&quot;4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić&quot; &#x2F;&gt;
+&lt;em&gt;4 nasveti, kako se lahko kibernetsko zavarujemo. Vir slike: Relja Stanišić&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;prihodnost-osebne-kibernetske-varnosti&quot;&gt;Prihodnost osebne kibernetske varnosti&lt;&#x2F;h1&gt;
+&lt;p&gt;Kibernetska varnost posameznika bo v prihodnje še pomembnejša, saj se razvijajo umetna inteligenca, pametne naprave in biometrična identifikacija. V prihodnje bodo napadi vse bolj personalizirani in avtomatizirani, kar pomeni, da bo zaščita zahtevala stalno prilagajanje in učenje. Posameznik bo moral postati aktiven udeleženec lastne digitalne varnosti, ne le pasivni uporabnik tehnologije.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;poglejte-si-nas-prispevek-v-video-obliki&quot;&gt;Poglejte si naš prispevek v video obliki:&lt;&#x2F;h1&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;embed&#x2F;X0z72VJwDbw?si=Mh3vS7NoHUOqBYcB&quot; title=&quot;Kibernetska varnost&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt; 
+&lt;h1 id=&quot;povezave-za-dodatno-branje&quot;&gt;Povezave za dodatno branje:&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.varninainternetu.si&quot;&gt; &lt;em&gt;Varni na internetu (SI-CERT)&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; : Osrednji slovenski portal za ozaveščanje o spletnih nevarnostih.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.enisa.europa.eu&quot;&gt; &lt;em&gt; Enisa (EU Agency for Cybersecurity) &lt;&#x2F;em&gt;&lt;&#x2F;a&gt; : Evropski standardi in poročila o kibernetskih grožnjah.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.nist.gov&quot;&gt; &lt;em&gt; NIST (Digital Identity Guidelines)&lt;&#x2F;em&gt;&lt;&#x2F;a&gt; : Mednarodna merila za varno avtentikacijo in upravljanje identitet.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,94 @@
+# The URL the site will be built for
+base_url = "https://kmmid.si"
+title="MedijskaPredilnica"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "DeepThought"
+
+taxonomies = [
+    { name = "categories", feed = true, paginate_by = 10 },
+    { name = "tags", feed = true, paginate_by = 10 },
+]
+
+[search]
+# Whether to include the title of the page/section in the index
+include_title = true
+# Whether to include the description of the page/section in the index
+include_description = false
+# Whether to include the path of the page/section in the index
+include_path = false
+# Whether to include the rendered content of the page/section in the index
+include_content = true
+# At which character to truncate the content to. Useful if you have a lot of pages and the index would
+# become too big to load on the site. Defaults to not being set.
+# truncate_content_length = 100
+
+[markdown]
+# Whether external links are to be opened in a new tab
+# If this is true, a `rel="noopener"` will always automatically be added for security reasons
+external_links_target_blank = true
+
+render_emoji = true
+
+[extra]
+# Put all your custom variables here
+# Enable external libraries
+
+katex.enabled = true
+katex.auto_render = true
+
+chart.enabled = true
+mermaid.enabled = true
+galleria.enabled = true
+
+navbar_items = [
+ { code = "en", nav_items = [
+  { url = "$BASE_URL/", name = "Domov" },
+  { url = "$BASE_URL/seminarji", name = "Seminarji" },
+  { url = "$BASE_URL/novice", name = "Novice" },
+  { url = "$BASE_URL/tags", name = "Etikete" },
+  { url = "$BASE_URL/categories", name = "Kategorije" },
+ ]},
+]
+
+# Add links to favicon, you can use https://realfavicongenerator.net/ to generate favicon for your site
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+safari_pinned_tab = "/icons/safari-pinned-tab.svg"
+webmanifest = "/icons/site.webmanifest"
+
+# Author details
+[extra.author]
+name = "MedijskaPredilnica"
+avatar = "/images/avatar2.svg"
+
+[extra.seminarji]
+avatar2 = "/images/purring_cat.svg"
+
+# Social links
+[extra.social]
+facebook = "https://www.facebook.com/medijskekomunikacijeFERI"
+twitter = "https://x.com/@medijske"
+instagram = "https://www.instagram.com/medijske.um.si/#"
+youtube = "https://www.youtube.com/@medijskekomunikacijeferi3538"
+
+
+# To add google analytics
+[extra.analytics]
+google = "<your_gtag>"
+
+# To add disqus comments
+[extra.commenting]
+disqus = "<your_disqus_shortname>"
+
+# To enable mapbox maps
+[extra.mapbox]
+enabled = true
+access_token = "<your_access_token>"

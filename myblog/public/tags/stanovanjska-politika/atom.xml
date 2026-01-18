@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>MedijskaPredilnica - stanovanjska politika</title>
+    <link rel="self" type="application/atom+xml" href="https://kmmid.si/tags/stanovanjska-politika/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://kmmid.si"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-14T00:00:00+00:00</updated>
+    <id>https://kmmid.si/tags/stanovanjska-politika/atom.xml</id>
+    <entry xml:lang="en">
+        <title>MLADI MED SANJAMI O DOMU IN REALNOSTJO TRGA </title>
+        <published>2026-01-14T00:00:00+00:00</published>
+        <updated>2026-01-14T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://kmmid.si/seminarji/seminarji-2/"/>
+        <id>https://kmmid.si/seminarji/seminarji-2/</id>
+        
+        <content type="html" xml:base="https://kmmid.si/seminarji/seminarji-2/">&lt;h1 id=&quot;vedno-vec-za-vedno-manj&quot;&gt;Vedno več za vedno manj&lt;&#x2F;h1&gt;
+&lt;p&gt;Dostopnost stanovanj se najpogosteje meri z razmerjem med cenami nepremičnin in dohodki. Med letoma 2019 in 2024 so se cene stanovanjskih nepremičnin v Sloveniji po indeksu Eurostata zvišale za približno 55 %, medtem ko so se povprečne bruto plače v istem obdobju povečale za okoli 36 %. To pomeni, da so se cene stanovanj višale hitreje, kot so rasli dohodki, kar mladim brez večjih prihrankov ali dediščin močno oteži osamosvajanje. Po podatkih GURS je bila v prvem polletju leta 2024 povprečna cena rabljenega stanovanja v Ljubljani 4.370 evrov na kvadratni meter. Pri 60-kvadratnem stanovanju bi to pomenilo približno 262 tisoč evrov. Ob povprečni slovenski plači v letu 2024 (1.526 evrov neto na mesec) bi tak nakup – če dohodek poenostavljeno primerjamo s kupnino – predstavljal več kot 14 let celotnega neto dohodka. V evropskem kontekstu trend ostaja podoben. Povprečno gospodinjstvo v EU je leta 2023 za stanovanjske stroške porabilo skoraj 20 % razpoložljivega dohodka, medtem ko so v nekaterih državah ti deleži dosegali tudi do 35 %. Visok delež stroškov za bivanje ni težava zgolj v Sloveniji, temveč širši evropski trend naraščajočih se bivalnih stroškov.&lt;&#x2F;p&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe title=&quot;Razvoj cen stanovanjskih nepremičnin (2010-2024)&quot; aria-label=&quot;Line chart&quot; id=&quot;datawrapper-chart-TzHQW&quot; src=&quot;https:&#x2F;&#x2F;datawrapper.dwcdn.net&#x2F;TzHQW&#x2F;1&#x2F;&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;424&quot; data-external=&quot;1&quot;&gt;&lt;&#x2F;iframe&gt;&lt;script type=&quot;text&#x2F;javascript&quot;&gt;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;]){var e=document.querySelectorAll(&quot;iframe&quot;);for(var t in a.data[&quot;datawrapper-height&quot;])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[&quot;datawrapper-height&quot;][t]+&quot;px&quot;;r.style.height=d}}});&lt;&#x2F;script&gt; 
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;ujeti-med-starsi-in-najemom&quot;&gt;Ujeti med starši in najemom&lt;&#x2F;h1&gt;
+&lt;p&gt;Ker je nakup nepremičnine pogosto nedosegljiv, se mladi zatekajo k najemu. V primerjavi z drugimi evropskimi državami je slovenski najemni trg razmeroma omejen. Medtem ko v EU v povprečju približno 31 % prebivalcev živi v najemnih stanovanjih, v državah z razvitimi najemnimi sistemi, kot je Nemčija, ta delež presega polovico prebivalstva. Ker v Sloveniji prevladuje lastniško bivanje, so mladi pri prehodu v samostojno življenje pogosto odvisni od pomoči družine. To se kaže tudi v podatkih: v Sloveniji kar 60 % mladih med 18. in 34. letom še vedno živi v gospodinjstvu s starši, medtem ko v povprečju v EU nekaj manj kot 50 %. Vzporedno s temi trendi, se iz Slovenije še naprej odseljuje več ljudi, kot se jih priseljuje. Leta 2023 je državo zapustilo več kot 22.000 prebivalcev, večinoma iz starostnih skupin, ki so še vključene v delo ali izobraževanje. Stanovanjska problematika tako postaja eden ključnih dejavnikov, ki mlade potiska v iskanje boljših življenjskih in delovnih pogojev v tujini.&lt;&#x2F;p&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe title=&quot;Povprečna starost mladih ob odhodu iz gospodinjstva staršev (2024)&quot; aria-label=&quot;Choropleth map&quot; id=&quot;datawrapper-chart-eybgR&quot; src=&quot;https:&#x2F;&#x2F;datawrapper.dwcdn.net&#x2F;eybgR&#x2F;1&#x2F;&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;700&quot; data-external=&quot;1&quot;&gt;&lt;&#x2F;iframe&gt;&lt;script type=&quot;text&#x2F;javascript&quot;&gt;window.addEventListener(&quot;message&quot;,function(a){if(void 0!==a.data[&quot;datawrapper-height&quot;]){var e=document.querySelectorAll(&quot;iframe&quot;);for(var t in a.data[&quot;datawrapper-height&quot;])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[&quot;datawrapper-height&quot;][t]+&quot;px&quot;;r.style.height=d}}});&lt;&#x2F;script&gt; 
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;lastnistvo-deli-generacije&quot;&gt;Lastništvo deli generacije&lt;&#x2F;h1&gt;
+&lt;p&gt;Prevlada lastniškega bivanja v Sloveniji prinaša varnost tistim, ki nepremičnino že imajo, mladim pa otežuje vstop na stanovanjski trg. Po podatkih SURS je leta 2021 v lastniških stanovanjih živelo 82,8 % prebivalcev, v uporabniških 9,5 %, v najemnih pa 7,7 %. Skoraj 90 % starejših od 70 let živi v lastnih stanovanjih, med mladimi od 20 do 29 let pa je ta delež okoli 75 %. Pri tem je ključna pravilna razlaga podatkov: “živeti v lastniškem stanovanju” pomeni, da oseba živi v stanovanju, ki je v lasti gospodinjstva, ne pa nujno, da je sama njen lastnik. Večina mladih tako živi v stanovanjih svojih staršev, njihov dejanski delež lastništva pa je bistveno nižji. Prav razlika v tem, kdo v stanovanju živi, in tem, kdo ga dejansko ima v lasti, ustvarja generacijski razkorak, ki ga povprečni podatki pogosto zakrijejo. Zgodovinsko ozadje pomaga razumeti, zakaj je takšna struktura v Sloveniji tako izrazita. Po osamosvojitvi je prišlo do obsežne privatizacije nekdanjega družbenega stanovanjskega fonda, s čimer je lastništvo prešlo v roke gospodinjstev, ki so bila takrat že ekonomsko aktivna. Posledično je danes velik del stanovanjskega premoženja skoncentriran v starejših generacijah, medtem ko mladi na trg vstopajo ob visokih cenah in omejeni ponudbi, kjer postaja pomoč družine pogosto neizogibna.&lt;&#x2F;p&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;video controls=&quot;&quot; title=&quot;MLADI MED SANJAMI O DOMU IN REALNOSTJO TRGA - interjvu video&quot; width=&quot;100%&quot; poster=&quot;&#x2F;images&#x2F;2-video.mp4&quot;&gt;
+    &lt;source src=&quot;&#x2F;images&#x2F;2-video.mp4&quot; type=&quot;video&#x2F;mp4&quot;&gt;
+  &lt;&#x2F;video&gt;
+&lt;&#x2F;div&gt;
+&lt;h1 id=&quot;vec-kot-le-streha-nad-glavo&quot;&gt;Več kot le streha nad glavo&lt;&#x2F;h1&gt;
+&lt;p&gt;Stanovanjska problematika mladih se pogosto obravnava kot ločeno vprašanje nepremičninskega trga, vendar ima pomembne posledice tudi za demografske trende. Podatki Statističnega urada RS kažejo, da se je število živorojenih v Sloveniji med letoma 2010 in 2022 zmanjšalo za približno 21 %, kar odraža spremembe v življenjskih odločitvah mladih. Negotovost glede bivanja in visoki stanovanjski stroški pogosto pomenijo odlašanje z osamosvajanjem in posledično, z ustvarjanjem družine. Ključno vprašanje ni le, kako zagotoviti več stanovanj, temveč kakšno družbo ustvarjamo, če stabilno bivanje za mlajše generacije postaja bolj izjema kot pravilo.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;viri&quot;&gt;Viri&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ec.europa.eu&#x2F;eurostat&#x2F;statistics-explained&#x2F;index.php?title=Housing_price_statistics_-_house_price_index&quot;&gt;Eurostat. (9. 1. 2026). &lt;em&gt;Housing price statistics - house price index. &lt;&#x2F;em&gt; &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.stat.si&#x2F;StatWeb&#x2F;news&#x2F;Index&#x2F;13457&quot;&gt;Češek Vozel, N., in Vrh, A. (17. 2. 2025). &lt;em&gt; Povprečna plača višja tako na mesečni kot na letni ravni. &lt;&#x2F;em&gt; Statistični urad Republike Slovenije (SURS). &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pxweb.stat.si&#x2F;SiStatData&#x2F;pxweb&#x2F;sl&#x2F;Data&#x2F;-&#x2F;0419005S.PX&quot;&gt;Statistični urad Republike Slovenije (SiStat). (b. d.). &lt;em&gt; Indeksi cen stanovanjskih nepremičnin po vrstah stanovanjskih nepremičnin, Slovenija, letno. &lt;&#x2F;em&gt; &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.stat.si&#x2F;StatWeb&#x2F;News&#x2F;Index&#x2F;13751&quot;&gt;Vrabič Kek, B., in Pahor, N. (11. 8. 2025). &lt;em&gt; 12. avgust, mednarodni dan mladih. &lt;&#x2F;em&gt; Statistični urad Republike Slovenije (SURS).&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.gov.si&#x2F;novice&#x2F;2024-10-15-polletno-porocilo-o-slovenskem-trgu-nepremicnin-za-leto-2024&#x2F;&quot;&gt;Geodetska uprava. (15. 10. 2024). &lt;em&gt; Polletno poročilo o slovenskem trgu nepremičnin za leto 2024. &lt;&#x2F;em&gt; Republika Slovenija – GOV.SI. &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ec.europa.eu&#x2F;eurostat&#x2F;statistics-explained&#x2F;index.php?title=Living_conditions_in_Europe_-_housing&quot;&gt;European Union. (November 2025).&lt;em&gt; Living conditions in Europe – housing.&lt;&#x2F;em&gt; &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.re-dwell.eu&#x2F;case-library&#x2F;housing-fund-of-the-republic-of-slovenia&quot;&gt;Horvat, M. (4. 7. 2023). &lt;em&gt;Housing Fund of the Republic of Slovenia.&lt;&#x2F;em&gt; RE-DWELL. &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.stat.si&#x2F;StatWeb&#x2F;News&#x2F;Index&#x2F;10265&quot;&gt;Miklič, E. (22. 6. 2022). &lt;em&gt;Število naseljenih stanovanj se je povečalo.&lt;&#x2F;em&gt; Statistični urad Republike Slovenije (SURS). &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener external&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pxweb.stat.si&#x2F;SiStatData&#x2F;pxweb&#x2F;sl&#x2F;Data&#x2F;-&#x2F;05J1002S.px&#x2F;&quot;&gt;Statistični urad Republike Slovenije (SiStat). (b. d.). &lt;em&gt;Osnovni podatki o rojenih, Slovenija, letno.&lt;&#x2F;em&gt; &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
