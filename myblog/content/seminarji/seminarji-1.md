@@ -15,7 +15,7 @@ tags = ["LGBTQ", "enakost", "prezentacija", "mediji"]
 
 Dolga leta so bili istospolno usmerjeni v medijskih vsebinah prikazani predvsem skozi ponavljajoče se vzorce. Geji kot komični liki, lezbijke kot seksualizirane podobe, transspolne osebe pa kot senzacionalistična izjema. Čeprav se je medijska krajina v zadnjem desetletju delno spremenila, številne analize opozarjajo, da so te podobe še vedno prisotne – pogosto manj očitno, a nič manj vplivno. 
 
-![Foto: Istospolno usmerjeni so v medijih pogosto predstavljeni stereotipno ali zgolj v omejenem kontekstu. Vir: Getty Image](images/1-animacija1.gif)
+{{ img(path="images/1-animacija1.gif", alt="Foto: Istospolno usmerjeni so v medijih pogosto predstavljeni stereotipno ali zgolj v omejenem kontekstu. Vir: Getty Image") }}
 *Foto: Istospolno usmerjeni so v medijih pogosto predstavljeni stereotipno ali zgolj v omejenem kontekstu. Vir: Getty Image*
 
 
@@ -45,7 +45,7 @@ Težava ni zgolj v tem, o čem mediji poročajo, temveč tudi, kako to počnejo.
 
 Takšen pristop lahko nehote utrjuje delitev na »večino« in »drugačne«. Namesto poudarjanja skupnih izkušenj se krepi občutek izjemnosti, ki vodi v nadaljnjo marginalizacijo. Mediji imajo pri tem pomembno priložnost: z vključevanjem istospolno usmerjenih v širši spekter vsebin bi lahko prispevali k bolj uravnoteženi in realistični podobi družbe. 
 
-![Foto: Razmerje med različnimi tipi medijske reprezentacije istospolno usmerjenih v evropskih medijih. Vir: Anika Predan](images/1-infografika.png, "Foto: Razmerje med različnimi tipi medijske reprezentacije istospolno usmerjenih v evropskih medijih. Vir: Anika Predan")
+{{ img(path="/images/1-infografika.png", alt="Foto: Razmerje med različnimi tipi medijske reprezentacije istospolno usmerjenih v evropskih medijih. Vir: Anika Predan") }}
 *Foto: Razmerje med različnimi tipi medijske reprezentacije istospolno usmerjenih v evropskih medijih. Vir: Anika Predan*
 
 Infografika pokaže, da še vedno prevladujejo stereotipne in negativne predstavitve, medtem ko so nevtralne, vsakdanje zgodbe v manjšini. Podobno ugotavlja tudi organizacija [GLAAD](https://glaad.org/whereweareontv24/) v svojih analizah medijske reprezentacije, ki poudarjajo pomen normalizacije in raznolikosti zgodb. 
