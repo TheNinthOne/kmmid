@@ -1,0 +1,6 @@
++++
+title = "Mačje novice"
+sort_by = "date"
+paginate_by = 5
+template="novice.html"
++++
